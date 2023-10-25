@@ -1,0 +1,122 @@
+1-2:These functions and the fact that genres evolve (Bazerman, 1988; Gillaerts & Van deVelde, 2010) keep research articles (RAs) in the focus of attention of academic investigations.
+
+2-5:Studies were conducted on abstracts in the fields of medicine (Anderson & Maclean, 1997; Busch-Lauer, 1995; Salager-Meyer, 1990, 1992); biology (Samraj, 2005); biomedicine(Huckin, 2001); psychology (Hartley, 2003); engineering, physics, marketing, sociology and humanities (Hyland, 2004); applied linguistics (Santos, 1996; Tseng, 2011); and humanities, social sciences, and natural sciences (Stotesbury, 2003).
+
+3-6:Some of these studies and additional ones were cross-linguistic investigations of differences between English and German (Busch-Lauer, 1995), Spanish (Martín-Martín, 2003), Portuguese (Feltrim, Aluísio, & Nunes, 2003), or French journal abstracts (van* The research was supported by the Hungarian Scientific Research Fund (OTKA K83243).
+
+4-8:1 Permanent address: 2022 Tahitotfalu, G€orbe u.
+
+5-9:The importance of the abstract is further underscored by a recent edited volume dedicated to this part-genre (Bondi & Lores Sanz, 2014) and by the numerous publications dedicated to the classroom applications of genre research findings (Paltridge, 1996; Swales & Feak, 2004, 2009, 2010).
+
+6-11:A rare exception isStotesbury (2003), who noted that the few literary abstracts she investigated seemed to have a topiceargumenteconclusion structure.
+
+7-26:Research has suggested that structured abstracts are superior because of their extended length, increased readability and searchability, and information content (Hartley, 1999).
+
+8-27:However, they have been also found to feature confusing typesetting, have space-inefficient layout, and therefore miss important information because of the restrictions imposed by the publisher (Hartley & Benjamin, 1998; Taddio et al., 1994).
+
+9-29:However, few descriptive studies evaluate traditional abstracts critically in terms of their effectiveness: as an exception, Santos (1996) noted that because some applied linguistic abstracts made only vague references to implications and conclusions, readers could not determine the usefulness of the articles.
+
+10-33:The informative abstract is a condensed version of the entire RA, uses primarily past tense, active voice, and self-reference (Day,1988; Goldbort 2002; Liddy, 1991; NISO 1997).
+
+11-34:According to Cremmins (as cited in Cross & Oppenheim, 2006), these two abstract types can mix and form an indicative-informative abstract that combines descriptive abstract content with conclusions.
+
+12-35:Because LRA abstracts were described as transitional (Stotesbury, 2003), it raises the question which abstract type the discipline prefers and why?
+
+13-38:Lores (2004) provided a new analytical angle by comparing the rhetorical structure of abstracts to that of a whole article (IntroductioneMethodseResultseDiscussion/IMRD structure) or of an article introduction (Swales, 1990 CARS structure).
+
+Methodology in some disciplines is discussed in Move 3, Step 1B (Announcing Present Research) as some of Swales' (1990) examples suggest (see, e.g., the outline structure on p. 165 in Genre Analysis) or asArvay and Tanko (2004) have shown in their analysis of theoretical RAintroductions (see M3 S1C Analytical Details in their revised CARS model, pp. 14-44:Rhetorical movesA move is a stretch of text with a definable rhetorical function (Swales & Feak, 2009).
+
+15-45:StudyField/genreMove structureSalager-MeyerMedical RAPurposec, Resultsc, Conclusionsc, Problem Statemento, Recommendationso(1990)Review ArticleObjectives (Sub-move: Corpus)c, Resultsc, Conclusionc, RecommendationscCase ReportCase Presentationc, Findingsc, Comment on the Casec, Problem Statemento, SuggestionoLiddy (1991)Education, Behavioral Sciences,Backgroundo, Purposec, Methodologyc, Resultsc, Conclusionsc, Appendiceso& Mental Health RASantos (1996)Applied Linguistics RASituating the ResearchSM, c, Presenting the ResearchSM, c, Methodologyc, Resultso, DiscussionSMHuckin (2001)Biomedicine RAPurposeo, Methodc, Resultsc, ConclusionscCross andProtozoology RABackgroundo, Purposeo, Methodologyc, Resultsc, Discussion (Conclusion SM, c, RecommendationsOppenheimSM, o)(2006)Pho (2008)Applied Linguistics, &Situating the Researcho, Presenting the Researchc, Methodologyc, Resultsc, Discussing theEducational Technology RAResearchoTseng (2011)Applied Linguistics RABackgroundo, Aimc, Methodc, Resultsc, ConclusionoDiani (2014)LinguisticsSituating the ResearchSM, c, Presenting the Researchc, SM, Methodologyc, Resultso, DiscussionSMHatzitheodorouLaw1a.
+
+16-48:Gap:(2014)problem, issue SM, c, 2b.
+
+17-64:2005), in 66% (Hatzitheodorou, 2014), in 90% (Santos, 1996), or in 100% (Cross & Oppenheim, 2006; Tseng, 2011) of the investigated instances of a genre.
+
+18-67:Paltridge, 1997).
+
+19-69:Arguably, move stability criteria should be set in conformity with the characteristic features of the discourse community (e.g., how dynamically it changes, Barton, 1994; or how close-knit it is, Bex, 1996; Hyland, 2000) whose genres are investigated.
+
+20-72:Such units can be 'steps' (Hyland, 2004; Santos, 2002; Swales, 1990) 'rhetorical strategies' (Bhatia, 1993; Martín-Martín, 2003), 'strategies' (Henry & Roseberry, 1997, 2001), 'slots' (Nwogu, 1997), 'sub-moves' (Nwogu, 1991; Santos, 1996), or 'stages' (Bhatia,2001).
+
+21-77:It has also been noted that in specific genres and disciplines (Flowerdew, 2005; Holmes, 1997; Swales, 2004) writers modify the order of the moves, and, typically in longer genres (Dudley-Evans, 1994; Hopkins & Dudley-Evans, 1988; Swales, 1990), they use them not only in composite but cyclical configurations, forming Movex e Movey e Movex patterns.
+
+22-79:Hyland (2004), for example, encountered it in longer than average abstracts as didSantos (1996), who considered it an acceptable if idiosyncratic authorial attempt to perform unconventional rhetorical acts.
+
+23-80:The investigation of this phenomenon is warranted because it can break the logical flow of ideas (Cross & Oppenheim, 2006;Salager-Meyer, 1990).
+
+24-84:Some researchers simply acknowledged the existence of such moves (Douglas, Connor, & Upton 2007); others also discussed their effects.
+
+25-85:Bhatia (1993), for example, stated that embedding combined with syntactic order reversal made moves difficult to recognize.
+
+26-86:Cross and Oppenheim (2006) and Santos (1996) noted that move embedding resulted in information loss.
+
+27-90:Santos (1996) and Pho (2008) found that whereas the tense typical of the Results move in applied linguistics abstracts was the past tense, some writers used the present tense.
+
+28-94:Syntactic complexity can be described in terms of the variety and degree of sophistication of grammatical structures in a text (Ortega, 2003).
+
+29-95:Lexical richness is typically described in terms of lexical density, the proportion of content words to the total number of words in a text; lexical sophistication, the proportion of less frequently used or advanced words; and lexical variation, the proportion of content words to the total number of content words (Read, 2000).
+
+30-97:As Giv on's code quantityprinciple states (1985), there is a proportional relation between the importance of information and the amount of code that expresses it.
+
+31-98:Such a relationship was observed by Holmes (1997), who defined the prominence of a move as the function of the number of sentences it contained.
+
+32-99:Cross and Oppenheim (2006) estimated the importance of a move similarly: they expressed in percentages the size of the text space allocated to moves.
+
+33-101:Finally, Tanko (2005) used number of words as an index of argumentative essay movesalience.
+
+34-118:The earliest mention of a literary abstract I found was in the May 1968 issue of PMLA (“For Members Only section”), which contains the MLA “Guidelines for abstracting scholarly articles” (p. 459).
+
+35-122:JournalPeriodTokensAbstracts% of corpusX tokens/abstractNew Literary History2013 Sum.
+
+36-124:Shakespeare Quarterly2013 Fall6.8413534.11194.232011 Spr.
+
+37-125:PMLA2014 Jan.4.6333223.10144.882011 Oct.Modern Fiction Studies2013 Win.
+
+38-127:Abstracts were only requested later in the early 2000s by Johns Hopkins University Press.
+
+39-131:The analysts who studied abstracts submitted in 1968e69 criticized them for their problematic information content and questioned their suitability to substitute the RA.
+
+40-152:The sub-corpora were first subjected to a bottom-up software analysis with WordSmith Tools 6.0 (Scott, 2012).
+
+41-159:The syntactic complexity analyser software (Lu, 2011) was used to generate syntactic indices (i.e., clauses per sentence, or types of clauses per sentence for this study).
+
+42-160:The lexical complexity analyser (Lu, 2012) was used to generate lexical complexity indices and structure counts (e.g., sophisticated lexical word types, type-token ratios, or verb/adjective/adverb variation), which were subsumed under the categories of lexical density (LD), lexical variation (LV), and lexical sophistication (LS).
+
+43-173:Its role is the study of literary topics to understand them better and to engage in scholarly conversation about them by means of critical reflection and cogent argumentation (Germano, 2008; Turabian, Williams, Colomb, & Booth, 2010).
+
+44-205:The following example is the first sentence in an abstract that fully merges Topic (M1) and Method (M5): (1) This article explores Ian McEwan's negotiation of the “two-culture” debate between literature and science {M1} in The Child in Time (1987) and Enduring Love (1997).
+
+45-209:As in other genres (e.g., Bhatia, 1993), they resulted from syntactic order reversal: within one sentence boundary, a main clause followed a nonfinite subordinate clause.
+
+46-211:This is a less frequent clause order, whose function is to emphasize the main clause containing the most important information (Quirk et al., 1985).
+
+47-213:{M4} [A096]Santos (1996) proposed a different explanation for embedding and syntactic reversal, namely that they signal the author's effort to “compete for the attention of a busy readership” (p. 492).
+
+48-214:However, a plausible alternative explanation could be that the abstract is a summary and the entailed requirement for information maximization results in the realization of several communication goals per one syntactic unit (Tanko, 2016) and in the foregrounding of some of these by syntactic means.
+
+49-221:Swales, 1990) or may indicate literature scholars’ appreciation of coherent discourse, which is also confirmed by the move sequence findings.
+
+50-234:Topic (M1)This move introduces the topic of the RA and provides bibliographic information, as in:(3) This essay examines the role of fl^anerie in Ralph Werther's 1918 Autobiography of an Androgyne.
+
+51-235:[A073]Therefore, functionally M1 overlaps with M1 (Establishing a territory) Steps 1 (Claiming centrality), 2 (Topic generaliza-tions), or 3 (Reviewing previous research) in the CARS model (Swales, 1990).
+
+52-237:Whereas the use of inanimate subjects with active verbs has been found in research articles (Master, 1991; 2001; Swales,Move typeMove featureTopic (M1)Background (M2)Niche (M3)Purpose (M4)Method (M5)Outcome (M6)Conclusion (M7)Implications (M8)infrequent, long------+-infrequent, short+-+----+frequent, long-+---+--frequent, short---++---predominantly stable---+-+--moderately stable-+--+---not stable+-+---++opens abstract+f+f-+o+i---co-occurs withM2f,1M1i,2M2i,2 M5f,1,2M6 f,1M7o,1M8i,1M6i,2,M7i,2position(s)1f ,2i1f,2o,3o,4i2f1i,2f,3f1i,2f,3f3f,4f,5f3i,7f7icloses abstract-+i-+f+i+f+o+iindependent+o+f+i+f+i+f+i-partially embedded+o+o-M5f,2M4fM5i,2+i+ifully embedded+o+o+i+o+o+o+i-forms move cycle+i+i-+i+i+i--Fig.
+
+53-253:[A059]It seems that the members of the literary discourse community identify theirs as a high-context culture (Hall, 1976) in which less information is to be coded in abstracts to activate shared internalized information.
+
+54-313:Syntactic complexityMost abstracts consisted of 4e5 sentences (X ¼ 4.91, þx ¼ 5.00, Mo ¼ 4.00, SD ¼ 2.00), which matches humanities journal abstract findings, but the average LRA abstract had fewer sentences than natural sciences abstracts (Orasan, 2001).
+
+55-316:This shows that compared to linguistics and natural sciences, where an average 24e27 words/sentence was the norm (Holtz, 2011; Orasan, 2001), the LRA abstracts contained longer sentences.
+
+56-320:This made the abstracts grammatically complex, given that sentence length is an indicator of syntactic complexity(Biber & Conrad, 2009).
+
+57-325:Because this index shows “how closely packed the information is” (Halliday, 1985: 66), LRA abstracts can be considered texts with high information content.
+
+58-327:The average LD values were 0.50 for the summaries and 0.46 for the essays(Tanko, 2016).
+
+59-330:Laufer, 1994) indices ranged between 0.33 and 0.63 for the move sub-corpora (Table 6).
+
+60-338:Because this measure is sensitive to word count, the mean number of different words from 10 random 50-word sequences selected by the software (Lu, 2012) from each move sub-corpus was used in the analysis.
+
+61-341:As a comparison, the average LV indices calculated for the summaries and essays were, respectively, 38.46 and 37.96 (Tanko, 2016), which is almost identical with the lexical variation inthe abstracts.
+

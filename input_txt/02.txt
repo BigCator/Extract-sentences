@@ -1,0 +1,1827 @@
+Journal of English for Academic Purposes 27 (2017) 42e55
+
+Contents lists available at ScienceDirect
+
+Journal of English for Academic Purposes
+
+j o u rn a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j e a p
+
+Literary research article abstracts: An analysis of rhetorical
+
+moves and their linguistic realizations*
+
+Gyula Tank
+
+o 1
+
+Department of English Applied Linguistics, School of English and American Studies, E€
+
+otv€
+
+os Lor
+
+and University, Budapest, R
+
+ak
+
+oczi út 5., H-
+
+1088, Hungary
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+
+Research article abstracts are the most effective means of sharing research results. This
+
+Received 5 February 2016
+
+function and the evolution of the research article genre have kept the abstract in the focus
+
+Received in revised form 6 March 2017
+
+of academic investigations. However, despite the impressive research output on abstracts,
+
+Accepted 5 April 2017
+
+research addressing specifically literature research article (LRA) abstracts is scarce. This
+
+study, therefore, describes the move structure of the LRA abstract, defines the functions of
+
+the identified moves, and discusses their linguistic realizations. To conduct the research, a
+
+Keywords:
+
+corpus consisting of 135 abstracts from four international journals with high impact fac-
+
+Abstracts
+
+tors was compiled and subjected (a) to move analysis performed by a human analyst and
+
+Move analysis
+
+Lexico-grammatical features
+
+(b) to software-driven analyses involving text analysis software. The results reveal that LRA
+
+Corpus analysis
+
+abstracts have a non-hierarchical eight-move structure with four stable moves, whose
+
+Literature research article
+
+functions are to present the background, purpose, methodology and outcomes of the
+
+research. LRA abstracts are a mix of the descriptive and informative abstracts and struc-
+
+turally overlap with the rhetorical structure of RA introductions. They have high syntactic
+
+complexity and lexical density and contain primarily low frequency words. These features
+
+and their high information content make them difficult to process.
+
+© 2017 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+Scientific journals disseminate knowledge and foster interaction, professional development, and the acquisition of discourse community membership. These functions and the fact that genres evolve (Bazerman, 1988; Gillaerts & Van de
+
+Velde, 2010) keep research articles (RAs) in the focus of attention of academic investigations. A part-genre within RAs that has become the most read type of research literature with the exponentially increasing research output is the abstract.
+
+Abstracts from a large variety of disciplines have been investigated. Studies were conducted on abstracts in the fields of medicine (Anderson & Maclean, 1997; Busch-Lauer, 1995; Salager-Meyer, 1990, 1992); biology (Samraj, 2005); biomedicine
+
+(Huckin, 2001); psychology (Hartley, 2003); engineering, physics, marketing, sociology and humanities (Hyland, 2004); applied linguistics (Santos, 1996; Tseng, 2011); and humanities, social sciences, and natural sciences (Stotesbury, 2003). Some of these studies and additional ones were cross-linguistic investigations of differences between English and German (Busch-
+
+Lauer, 1995), Spanish (Martín-Martín, 2003), Portuguese (Feltrim, Aluísio, & Nunes, 2003), or French journal abstracts (van
+
+* The research was supported by the Hungarian Scientific Research Fund (OTKA K83243).
+
+E-mail address: tanko.gyula@btk.elte.hu.
+
+1 Permanent address: 2022 Tahitotfalu, G€orbe u. 2.
+
+http://dx.doi.org/10.1016/j.jeap.2017.04.003
+
+1475-1585/© 2017 Elsevier Ltd. All rights reserved.
+
+
+
+
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+43
+
+Bonn & Swales, 2007). The importance of the abstract is further underscored by a recent edited volume dedicated to this part-genre (Bondi & Lores Sanz, 2014) and by the numerous publications dedicated to the classroom applications of genre research findings (Paltridge, 1996; Swales & Feak, 2004, 2009, 2010).
+
+In contrast, English language literary research article (LRA) abstracts have received little attention. A rare exception is
+
+Stotesbury (2003), who noted that the few literary abstracts she investigated seemed to have a topiceargumenteconclusion structure. She also stated that the LRA has a “liminal status” compared to research reports from other fields of science. The scarcity of research on LRA abstracts and their perceived generic status already justify research interest in them.
+
+Literary research journals constitute international fora for academic exchange for an intellectually diverse readership consisting of scholars and teachers of literature and feature primarily previously unpublished articles. The articles are theoretically engaged and historically informed texts that address significant topics related to, for example, literary theory, method, interpretation, genre(s), style, censorship, history, or interdisciplinarity. Authors present findings clearly, cogently and concisely to enhance the communicative effectiveness of their articles. The discipline is highly divergent and has numerous schools of thought, so the question emerges how literature scholars document their research endeavors in a convergent genre like the abstract.
+
+Unlike in the case of abstracts in several other fields of study, valid and reliable empirical evidence is unavailable on the move structure of LRA abstracts, the rhetorical functions performed by their moves, and the linguistic realization of the moves in terms of lexico-grammatical patterns, syntactic complexity and lexical richness. The present study was motivated by the lack of information on these rhetorical structure and linguistic features of LRA abstracts.
+
+2. Literature review
+
+2.1. Research article text abstract typology
+
+As opposed to graphical abstracts, text abstracts written by scholars form two groups in terms of format: structured and traditional abstracts. Regarding rhetorical goals, they can be descriptive, informative, or indicative-informative.
+
+Traditional abstracts consist of a block paragraph entitled Abstract. Structured abstracts have sub-headed sections and typically occur in natural or social science journals. Research has suggested that structured abstracts are superior because of their extended length, increased readability and searchability, and information content (Hartley, 1999). However, they have been also found to feature confusing typesetting, have space-inefficient layout, and therefore miss important information because of the restrictions imposed by the publisher (Hartley & Benjamin, 1998; Taddio et al., 1994). In contrast, traditional abstracts dominate in social sciences and humanities and have been researched extensively. However, few descriptive studies evaluate traditional abstracts critically in terms of their effectiveness: as an exception, Santos (1996) noted that because some applied linguistic abstracts made only vague references to implications and conclusions, readers could not determine the usefulness of the articles. The communicative effectiveness of abstracts in general, and of LRA abstracts in particular, should be more extensively studied.
+
+Text abstracts can be descriptive or informative. The descriptive abstract is not summative; does not discuss methodology/
+
+results; has an impersonal style; and uses primarily present tense, passive voice and third-person reference forms. The informative abstract is a condensed version of the entire RA, uses primarily past tense, active voice, and self-reference (Day,
+
+1988; Goldbort 2002; Liddy, 1991; NISO 1997). According to Cremmins (as cited in Cross & Oppenheim, 2006), these two abstract types can mix and form an indicative-informative abstract that combines descriptive abstract content with conclusions. Because LRA abstracts were described as transitional (Stotesbury, 2003), it raises the question which abstract type the discipline prefers and why?
+
+Discourse analytical investigations have sought to map the textual organization of traditional RA abstracts in terms of moves realized by functional components (e.g., steps, sub-moves, or strategies). A review of the literature on abstracts reveals that some original empirical research studies are available on the RA abstracts in mainstream literature that specifically address both the question of canonical rhetorical structure, described in the form of conventional and optional constituents (see Table 1), and lexico-grammar, but no such study on the LRA abstracts seems to be available.
+
+Lor
+
+es (2004) provided a new analytical angle by comparing the rhetorical structure of abstracts to that of a whole article (IntroductioneMethodseResultseDiscussion/IMRD structure) or of an article introduction (Swales, 1990 CARS structure).
+
+According to her, the IMRD structure matches the definition of the informative abstract; the descriptive abstract, which does not discuss methodology, reproduces the CARS structure; and the mixed-structure abstract corresponds with the descriptive-informative abstract. Her mapping may be debatable at the level of steps in the CARS model. Methodology in some disciplines is discussed in Move 3, Step 1B (Announcing Present Research) as some of Swales' (1990) examples suggest (see, e.g., the outline structure on p. 165 in Genre Analysis) or as
+
+Arvay and Tank
+
+o (2004) have shown in their analysis of theoretical RA
+
+introductions (see M3 S1C Analytical Details in their revised CARS model, pp. 79e80). Nevertheless, this analytical angle is also relevant for the study of LRA abstracts as it is not known which abstract type literary scholars use.
+
+2.2. Rhetorical moves
+
+A move is a stretch of text with a definable rhetorical function (Swales & Feak, 2009). Researchers considered it conventional and therefore obligatory if it appeared in 50% (Holmes, 1997; Nwogu, 1997; Swales, 1990), in 60% (Kanoksilapatham,
+
+44
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+Table 1
+
+Summary of the move types reported in original RAs with move status indicated.
+
+Study
+
+Field/genre
+
+Move structure
+
+Salager-Meyer
+
+Medical RA
+
+Purposec, Resultsc, Conclusionsc, Problem Statemento, Recommendationso
+
+(1990)
+
+Review Article
+
+Objectives (Sub-move: Corpus)c, Resultsc, Conclusionc, Recommendationsc
+
+Case Report
+
+Case Presentationc, Findingsc, Comment on the Casec, Problem Statemento, Suggestiono
+
+Liddy (1991)
+
+Education, Behavioral Sciences,
+
+Backgroundo, Purposec, Methodologyc, Resultsc, Conclusionsc, Appendiceso
+
+& Mental Health RA
+
+Santos (1996)
+
+Applied Linguistics RA
+
+Situating the ResearchSM, c, Presenting the ResearchSM, c, Methodologyc, Resultso, DiscussionSM
+
+Huckin (2001)
+
+Biomedicine RA
+
+Purposeo, Methodc, Resultsc, Conclusionsc
+
+Cross and
+
+Protozoology RA
+
+Backgroundo, Purposeo, Methodologyc, Resultsc, Discussion (Conclusion SM, c, Recommendations
+
+Oppenheim
+
+SM, o)
+
+(2006)
+
+Pho (2008)
+
+Applied Linguistics, &
+
+Situating the Researcho, Presenting the Researchc, Methodologyc, Resultsc, Discussing the
+
+Educational Technology RA
+
+Researcho
+
+Tseng (2011)
+
+Applied Linguistics RA
+
+Backgroundo, Aimc, Methodc, Resultsc, Conclusiono
+
+Diani (2014)
+
+Linguistics
+
+Situating the ResearchSM, c, Presenting the Researchc, SM, Methodologyc, Resultso, DiscussionSM
+
+Hatzitheodorou
+
+Law
+
+1a. Territory: area of research SM, o, 1b. Reporting Previous Research (RPR): citations SM, o, 2a. Gap:
+
+(2014)
+
+problem, issue SM, c, 2b. Goal: purpose of the study, research questions SM, c, 2c. Method:
+
+participants, materials and procedures SM, c, 3a. Results/Discussion: discussing the findings or the arguments on the issue SM, c, 3b. Importance claim: so what? SM, o, 3c. Suggestions for further
+
+research: future directions SM, o
+
+Business
+
+1a. Territory: area of research SM, c, 1b. Reporting Previous Research (RPR): citations SM, o, 2a. Gap: problem, issue SM, o, 2b. Goal: purpose of the study, research questions SM, c, 2c. Method:
+
+participants, materials and procedures SM, c, 3a. Results/Discussion: discussing the findings or the arguments on the issueSM, c, 3b. Importance claim: so what? SM, c, 3c. Suggestions for further
+
+research: future directions SM, o
+
+c ¼ conventional; o ¼ optional; SM ¼ move realized by sub-moves.
+
+2005), in 66% (Hatzitheodorou, 2014), in 90% (Santos, 1996), or in 100% (Cross & Oppenheim, 2006; Tseng, 2011) of the investigated instances of a genre. This variation shows that researchers have interpreted move stability criteria differently.
+
+However, the analyst using such frequency of occurrence values must exercise caution: If a low value is set, peripheral and prototypical instances of the genre cannot be distinguished (cf. Paltridge, 1997). Contrarily, the choice of a high value does not allow for the generic variation, and consequently a less typical specimen of the genre may not be recognized as an instance of the genre. Arguably, move stability criteria should be set in conformity with the characteristic features of the discourse community (e.g., how dynamically it changes, Barton, 1994; or how close-knit it is, Bex, 1996; Hyland, 2000) whose genres are investigated. Caution is especially needed when a new genre is analyzed and also in the case of an analysis of the LRA abstract which, as discussed in Section 3.1, is a relatively young genre and which, as a result, may not yet have a distinct set of prototypical features.
+
+In genres with hierarchical structure, moves are realized by smaller conventional and optional discourse units. Such units can be 'steps' (Hyland, 2004; Santos, 2002; Swales, 1990) 'rhetorical strategies' (Bhatia, 1993; Martín-Martín, 2003), 'strategies' (Henry & Roseberry, 1997, 2001), 'slots' (Nwogu, 1997), 'sub-moves' (Nwogu, 1991; Santos, 1996), or 'stages' (Bhatia,
+
+2001). As in the case of moves, the frequency and type of these lower-level constituents can be an indicator of authorial rhetorical concerns. Given that these constituents realize specific rhetorical goals, their rate of occurrence indicates the prominence of authorial objectives. Although abstracts with hierarchical structures have been identified, it is unknown if LRA abstracts are hierarchically structured.
+
+Research has established that moves occur in regular patterns determined by propositional content. It has also been noted that in specific genres and disciplines (Flowerdew, 2005; Holmes, 1997; Swales, 2004) writers modify the order of the moves, and, typically in longer genres (Dudley-Evans, 1994; Hopkins & Dudley-Evans, 1988; Swales, 1990), they use them not only in composite but cyclical configurations, forming Movex e Movey e Movex patterns. However, little research evidence is available about move cycling in abstracts. Hyland (2004), for example, encountered it in longer than average abstracts as did
+
+Santos (1996), who considered it an acceptable if idiosyncratic authorial attempt to perform unconventional rhetorical acts.
+
+The investigation of this phenomenon is warranted because it can break the logical flow of ideas (Cross & Oppenheim, 2006;
+
+Salager-Meyer, 1990).
+
+Moves appear independently or combine to varying degrees within the boundaries of one sentence, forming an embedded move. Partial embedding occurs when the boundaries of two or more moves that occur within one sentence coincide with syntactic unit boundaries. Full embedding occurs when the move boundaries do not coincide with syntactic unit boundaries.
+
+Some researchers simply acknowledged the existence of such moves (Douglas, Connor, & Upton 2007); others also discussed their effects. Bhatia (1993), for example, stated that embedding combined with syntactic order reversal made moves difficult to recognize. Cross and Oppenheim (2006) and Santos (1996) noted that move embedding resulted in information loss. Given that it affects communicative effectiveness, more research is needed on embedded moves especially in such summative genres as abstracts.
+
+Writers can also make idiosyncratic choices at the level of syntax. Santos (1996) and Bhatia (1993) reported instances of syntactic order reversal (e.g., sentence initial non-finite clauses) in embedded moves throughout abstracts, which resulted
+
+
+
+
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+45
+
+in a grammatically varied but potentially less coherent and therefore less easily processable text. Variation was also found in tense choices. Santos (1996) and Pho (2008) found that whereas the tense typical of the Results move in applied linguistics abstracts was the past tense, some writers used the present tense. Santos saw this as a “bold attempt to imply that the research reported has yielded indisputable, established knowledge” (p. 494). Therefore, the grammatical realization of the moves can also affect the impression made upon the reader and is an aspect to be investigated in the case of LRA abstracts.
+
+Although syntactic and lexical analysis can provide useful information about a genre, to the best of my knowledge, the lexico-grammatical features of abstracts have not been investigated in relation to syntactic complexity or lexical richness.
+
+Syntactic complexity can be described in terms of the variety and degree of sophistication of grammatical structures in a text (Ortega, 2003). Lexical richness is typically described in terms of lexical density, the proportion of content words to the total number of words in a text; lexical sophistication, the proportion of less frequently used or advanced words; and lexical variation, the proportion of content words to the total number of content words (Read, 2000).
+
+Finally, the rhetorical concerns of the author may also affect the text space allocated to a move. As Giv on's code quantity
+
+principle states (1985), there is a proportional relation between the importance of information and the amount of code that expresses it. Such a relationship was observed by Holmes (1997), who defined the prominence of a move as the function of the number of sentences it contained. Cross and Oppenheim (2006) estimated the importance of a move similarly: they expressed in percentages the size of the text space allocated to moves. They reported that a conventional move used up more than 25% of the text space in protozoology abstracts. Finally, Tank
+
+o (2005) used number of words as an index of argumentative essay move
+
+salience.
+
+The potential use of text space as a move stability criterion requires further examination as it can complement the frequency of occurrence move stability estimates.
+
+The review presented above informs and justifies this empirical study the main goals of which are to identify the move structure of the LRA abstract, define the functions and describe the linguistic characteristics of the moves, and determine the type of abstract typical of LRAs. Therefore, the study aims to answer the following research questions: A. Rhetorical structure analysis
+
+1. What rhetorical moves occur in literature research article abstracts?
+
+2. What are the characteristic features of the moves?
+
+B. Linguistic analysis
+
+3. What are the typical lexico-grammatical features of the moves in literature research article abstracts?
+
+4. What characterises the syntactic complexity and lexical richness of the abstracts?
+
+3. Methodology
+
+3.1. The corpus and historical background of the LRA abstract
+
+The corpus analyzed consists of LRA abstracts (RA titles and authors’ names excluded) selected from high impact factor international journals (Table 2) which publish LRAs but which provide no instructions about the content and structure of abstracts in their guidelines for authors.
+
+The emergence of the LRA abstract helps outline its discourse situation. Consequently, in addition to the background information provided in Appendix A, a brief account of its inception is given here.
+
+The earliest mention of a literary abstract I found was in the May 1968 issue of PMLA (“For Members Only section”), which contains the MLA “Guidelines for abstracting scholarly articles” (p. 459). The guide instructs authors to submit informative abstracts for the MLA abstract system, except for cases when an indicative abstract is the only option, and contains explicit content and style related instructions. However, unlike most journals in other disciplines, PMLA does not provide specifications on abstracts for its authors today because, as the editors of PMLA explained, abstracts vary relative to the article content (e-mail communication).
+
+Table 2
+
+LRA abstract corpus.
+
+Journal
+
+Period
+
+Tokens
+
+Abstracts
+
+% of corpus
+
+X tokens/abstract
+
+New Literary History
+
+2013 Sum.
+
+4.990
+
+31
+
+24.88
+
+161.29
+
+2006 Win.
+
+Shakespeare Quarterly
+
+2013 Fall
+
+6.841
+
+35
+
+34.11
+
+194.23
+
+2011 Spr.
+
+PMLA
+
+2014 Jan.
+
+4.633
+
+32
+
+23.10
+
+144.88
+
+2011 Oct.
+
+Modern Fiction Studies
+
+2013 Win.
+
+3.590
+
+37
+
+17.90
+
+96.81
+
+2012 Fall
+
+Total
+
+20.054
+
+135
+
+100
+
+
+
+
+
+46
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+Of the four journals, only PMLA has been publishing abstracts since 1968, albeit in a separate section of the hard copy edition of the journal. The other journals did not require authors to submit abstracts even when they were added to the Project Muse online database. Abstracts were only requested later in the early 2000s by Johns Hopkins University Press. They serve indexing purposes (e-mail communication) and can be accessed online, but they do not appear on the first page of the published research articles. Therefore, although today the literary abstract is a required and practiced genre, it seems to have a different status than abstracts in other disciplines.
+
+Some of the reasons for the authorial or editorial resistance to abstracts in LRAs are revealed in the “Abstract rumblings”
+
+section of the MLA guidelines. The analysts who studied abstracts submitted in 1968e69 criticized them for their problematic information content and questioned their suitability to substitute the RA. One of them accused a fellow professional of criticising abstracts without having read the RAs, which may indicate that at the time the abstract was perceived as an integral part of a RA rather than a stand-alone version of it.
+
+The birth of the LRA abstract was surrounded by heated discussion and the abstract appears to have been perceived initially as controversial and unnecessary rather than as an efficient tool for communication, which may explain some of the initial reluctance of literary journals to request abstracts. This unsettled discourse situation may have changed because today abstracts are submitted for all the four journals. Therefore, their investigation has become timely not only for the benefit of LRA authors but also for students of literature who, in the absence of specifications, may look at LRA abstracts as models to be followed when they write their theses.
+
+3.2. Move analysis
+
+3.2.1. Identification of the moves
+
+The structure of randomly selected abstracts (n ¼ 12) was analyzed top-down to construct a preliminary move structure model (Fig. 1) for the analysis. The author and their 11 MA students attending a written discourse analysis course read the abstracts independently and divided them into sections based on the information content and perceived communicative purposes: each shift in topic or communicative purpose, even if this occurred mid-sentence, was marked as a boundary between sections. The sections identified and their boundaries were compared, discussed and finalized if a consensus was found (i.e., if 8 or more readers agreed). Functional definitions were drafted and labels describing communicative function were assigned to each section, that is, to each rhetorical move.
+
+Following this coarse-grained analysis, each of the remaining abstracts in the corpus was coded twice by the author with a difference of one month between the codings (Cohen's Kappa ¼ 0.981, SPSS 20.0). The analytical unit was the clause because the sentence did not allow for a satisfactorily fine-grained analysis. Following the analysis of the entire corpus, the preliminary move structure was revised with the inclusion of a newly identified move (Niche) and the moves were renamed to better reflect their functions or to shorten them (Fig. 1). The functional definitions were used to identify text segments with identical communicative functions in the abstract corpus. For a sample move structure analysis see
+
+Appendix B. Next, the systematically recurring linguistic features of the moves were identified using various computational tools.
+
+3.2.2. Software-driven analysis
+
+A sub-corpus excluding fully embedded moves was constructed for each move type. The sub-corpora were first subjected to a bottom-up software analysis with WordSmith Tools 6.0 (Scott, 2012). Word frequency lists were created for each move type sub-corpus and the most frequent content words were further analyzed using the Concordance module of the software to identify recurrent patterns.
+
+Preliminary move structure model
+
+Revised move structure model
+
+M1
+
+Announcing the Topic
+
+M1
+
+Topic
+
+M2
+
+Stating Current Knowledge
+
+M2
+
+Background
+
+M3
+
+Announcing Purpose
+
+M3
+
+Niche
+
+M4
+
+Method
+
+M4
+
+Purpose
+
+M5
+
+Outcome (Results/Findings)
+
+M5
+
+Method
+
+M6
+
+Conclusion
+
+M6
+
+Outcome
+
+M7
+
+Recommendation
+
+M7
+
+Conclusion
+
+M8
+
+Implications
+
+Fig. 1. Preliminary and revised move structure models.
+
+
+
+
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+47
+
+Each sub-corpus was then lemmatized and part-of-speech (POS) tagged with a text-annotating tool (Schmid, 1994) so that it could be analyzed with syntactic and lexical complexity analyzer software (Lu, 2011, 2012). The POS tagged sub-corpora were also analyzed with WordSmith Tools by setting the software to look for POS tags as search-words. This helped identify and quantify, for example, tense, voice, or pronoun use.
+
+The syntactic complexity analyser software (Lu, 2011) was used to generate syntactic indices (i.e., clauses per sentence, or types of clauses per sentence for this study). The lexical complexity analyser (Lu, 2012) was used to generate lexical complexity indices and structure counts (e.g., sophisticated lexical word types, type-token ratios, or verb/adjective/adverb variation), which were subsumed under the categories of lexical density (LD), lexical variation (LV), and lexical sophistication (LS).
+
+4. Results and discussion
+
+This section first presents the structural characteristics of the moves. It continues with the exploration of the rhetorical functions and salient lexico-grammatical features of each move. Finally, the syntactic complexity and lexical richness of the moves are discussed.
+
+4.1. Rhetorical move structure
+
+4.1.1. Move frequency and invested rhetorical effort
+
+Five frequent moves were identified (Table 3). This shows that LRA abstract writers assigned high priority to the purpose and the outcomes of their research, to the methodology and to situating the study by either positioning it relative to established knowledge frames or by announcing its thematic focus. Overall, this is in harmony with the MLA specifications (which are here used for reference as the only relevant guidelines available) for the content of an informative LRA abstract.
+
+However, drawing conclusions was a low priority rhetorical act, despite the contrary recommendations in the MLA guidelines.
+
+It would seem that literary scholars were engaged in an autotelic activity. The limited rhetorical attention devoted to the establishment of the relevance of a LRA can be explained with the disciplinary consensus about literature as a sub-field of the humanities; namely, its scholarly impact is not to be measured in terms of socio-economic values and its aims are not to generate universal laws like natural sciences or, like social sciences, to make sense of complex social reality. Its role is the study of literary topics to understand them better and to engage in scholarly conversation about them by means of critical reflection and cogent argumentation (Germano, 2008; Turabian, Williams, Colomb, & Booth, 2010).
+
+Table 3 also shows the number of abstracts in which specific moves occurred. No move could have been considered conventional if the move stability threshold had been set at 90% or higher (cf. Section 2.2). Those four moves that occurred in more than half of the abstracts appear to be stable moves, which indicates that the abstracts do not have a high degree of generic prototypicality. Consistently with the divergent nature of the discipline, literary scholars appear to be less convergent in their discourse practices concerning abstracts. Because of this, in their case a more lenient move stability threshold had to be used for the identification of typical rhetorical action.
+
+The results of the analysis of the rhetorical efforts invested in individual moves also help reveal the salient moves: three moves were allocated 79.98% of the text space (Table 4). Of these, Outcome took up more than twice the text space of Purpose and Background combined, which indicates conventional move status (cf. Section 2.2). Method was allocated 8.30% of the total text space, which is not surprising because the majority of LRAs are more theoretical than empirical in nature.
+
+Furthermore, the move to text space ratio shows that Outcome and Background were frequent long moves, Purpose and Method were frequent short moves. Although infrequent, when present, Conclusion was longer than the infrequent short Topic, Niche, or Implications moves.
+
+The move structure derived on the basis of the above analysis is an eight-move structure. This is quite similar to the rhetorical structure of abstracts from other disciplines presented in Table 1. Based on frequency and text space criteria, the Table 3
+
+Occurrence of moves in LRA abstracts.
+
+Move
+
+Move frequency
+
+Abstracts featuring a move
+
+f
+
+%
+
+N
+
+%
+
+Purpose
+
+132
+
+25.34
+
+115
+
+85.19
+
+Outcome
+
+129
+
+24.76
+
+118
+
+87.41
+
+Method
+
+85
+
+16.31
+
+72
+
+53.33
+
+Background
+
+78
+
+14.97
+
+74
+
+54.81
+
+Topic
+
+58
+
+11.13
+
+58
+
+42.96
+
+Conclusion
+
+20
+
+3.84
+
+20
+
+14.81
+
+Niche
+
+16
+
+3.07
+
+15
+
+11.11
+
+Implications
+
+3
+
+0.58
+
+3
+
+2.22
+
+Total
+
+521
+
+100
+
+
+
+
+
+48
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+Table 4
+
+Text space per moves. a
+
+Move
+
+Words
+
+%
+
+Cum. %
+
+Ind. move f to text space ratio
+
+Outcome
+
+8.660
+
+44.33
+
+44.33
+
+68.19
+
+Purpose
+
+3.757
+
+19.23
+
+63.56
+
+28.90
+
+Background
+
+3.208
+
+16.42
+
+79.98
+
+43.35
+
+Method
+
+1.621
+
+8.30
+
+88.27
+
+20.26
+
+Topic
+
+1.279
+
+6.55
+
+94.82
+
+24.13
+
+Conclusion
+
+626
+
+3.20
+
+98.02
+
+32.95
+
+Niche
+
+323
+
+1.65
+
+99.68
+
+21.53
+
+Implications
+
+63
+
+0.32
+
+100.00
+
+21
+
+Total
+
+19.537
+
+100
+
+a The calculations are based on individual moves.
+
+stable moves in LRA abstracts are those presenting the results and research goals. The research context and methodology moves are moderately stable. Similarly to other soft disciplines, independent Niche and Implications moves are rare in LRA abstracts. The most notable difference is the absence of sub-moves, which means that LRA abstracts have a non-hierarchical structure. This may indicate that the LRA abstract is still in its early stages of evolution or that literary scholars do not consider it necessary to use alternative rhetorical strategies for the realization of the same rhetorical goal.
+
+4.1.2. Embedding and syntactic reversal in moves
+
+The embedded moves identified in the abstracts expressed different rhetorical functions within one clause. Partially embedded moves were frequent (n ¼ 131). Most involved two moves, but there were instances of three-move merges. Topic, Method, and Background moves formed most of the fully embedded moves (n ¼ 20). No abstract contained more than one fully embedded move. The fact that literary scholars did not overuse fully embedded moves may indicate their efforts to reduce information loss and to produce a cohesive text (cf. Section 2.2).
+
+The following example is the first sentence in an abstract that fully merges Topic (M1) and Method (M5): (1) This article explores Ian McEwan's negotiation of the “two-culture” debate between literature and science {M1} in The Child in Time (1987) and Enduring Love (1997). {zM5} [A099].
+
+The writer announces the topic of the research paper and provides information about the literary works that are used in the analysis.
+
+Instances of move order reversal also occurred. As in other genres (e.g., Bhatia, 1993), they resulted from syntactic order reversal: within one sentence boundary, a main clause followed a nonfinite subordinate clause. The subordinate clause was mostly a fronted participle clause with no subject. This is a less frequent clause order, whose function is to emphasize the main clause containing the most important information (Quirk et al., 1985). In the following example, the end-focus is on Purpose:
+
+(2) Adapting Wittgenstein's concept of “family resemblance” to an exemplary conjunction of philosophy and literature,
+
+{M5} this essay proposes that Beckett's works are less aporetic scenarios of deferral and undecidability than meticulous representations of the largely unarticulated convergent behaviors constituting forms of life. {M4} [A096]
+
+Santos (1996) proposed a different explanation for embedding and syntactic reversal, namely that they signal the author's effort to “compete for the attention of a busy readership” (p. 492). However, a plausible alternative explanation could be that the abstract is a summary and the entailed requirement for information maximization results in the realization of several communication goals per one syntactic unit (Tank
+
+o, 2016) and in the foregrounding of some of these by syntactic means.
+
+4.1.3. Move cycles
+
+Four abstracts contained move cycles of which two had two cycles each. The moves that formed cycles were Topic, Purpose, Method, Outcome, and Background. Cycles occurred primarily in longer than average abstracts. They were not characteristic of LRA abstracts but rather idiosyncratic. Their relative absence is probably due to the brevity of abstracts (cf.
+
+Swales, 1990) or may indicate literature scholars’ appreciation of coherent discourse, which is also confirmed by the move sequence findings.
+
+4.1.4. Move sequences
+
+A typical LRA abstract contained 3 (f ¼ 41) or 4 (f¼35) moves. No exceptionally frequent move sequence types were found.
+
+Abstracts with several (n 6) moves were rare (n ¼ 10).
+
+The analysis of typical move positions provides further insights. A typical LRA abstract opened with background information or a statement of the topic/purpose and closed with the results or purpose statement. When present, Conclusion was
+
+
+
+
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+49
+
+the last move (n ¼ 19) and Implications closed two and was the penultimate move in one abstract because of syntactic reversal.
+
+The typical order of the moves in a LRA abstract based on the move sequence patterns identified in the corpus can be described as follows:
+
+M1=M2 M3 M4=M5 M6 M7=M8
+
+Like the relative absence of move cycling, this move order indicates a distinct preference for a logical presentation of information in the LRA abstracts.
+
+Based on the combination of the findings form the last four sections, the textual organization of LRA abstracts is the following:
+
+½ðTopicÞ and=or Background þ ½ðNicheÞ þ ½Purpose and=or Method þ ½Outcome
+
+þ ½ðConclusionÞ and=or ðImplicationsÞ
+
+The bracketed elements and plus signs between them describe the typical order of the functional units, the parentheses indicate less frequently present and therefore minimally stable moves, and the moves typeset in bold show long moves.
+
+The main features of the moves are summarized in Fig. 2.
+
+4.2. The functions and the linguistic characteristics of moves
+
+4.2.1. Topic (M1)
+
+This move introduces the topic of the RA and provides bibliographic information, as in:
+
+(3) This essay examines the role of fl^anerie in Ralph Werther's 1918 Autobiography of an Androgyne. [A073]
+
+Therefore, functionally M1 overlaps with M1 (Establishing a territory) Steps 1 (Claiming centrality), 2 (Topic generaliza-tions), or 3 (Reviewing previous research) in the CARS model (Swales, 1990).
+
+In this move, the LRA was typically thematized with 'essay', which may indicate that the authors perceived their work as an expression of their viewpoint in the form of a theoretical paper, and sometimes by 'article' as the syntactic subjects.
+
+Whereas the use of inanimate subjects with active verbs has been found in research articles (Master, 1991; 2001; Swales,
+
+Move type
+
+Move feature
+
+Topic (M1)
+
+Background (M2)
+
+Niche (M3)
+
+Purpose (M4)
+
+Method (M5)
+
+Outcome (M6)
+
+Conclusion (M7)
+
+Implications (M8)
+
+infrequent, long
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
++
+
+-
+
+infrequent, short
+
++
+
+-
+
++
+
+-
+
+-
+
+-
+
+-
+
++
+
+frequent, long
+
+-
+
++
+
+-
+
+-
+
+-
+
++
+
+-
+
+-
+
+frequent, short
+
+-
+
+-
+
+-
+
++
+
++
+
+-
+
+-
+
+-
+
+predominantly stable
+
+-
+
+-
+
+-
+
++
+
+-
+
++
+
+-
+
+-
+
+moderately stable
+
+-
+
++
+
+-
+
+-
+
++
+
+-
+
+-
+
+-
+
+not stable
+
++
+
+-
+
++
+
+-
+
+-
+
+-
+
++
+
++
+
+opens abstract
+
++f
+
++f
+
+-
+
++o
+
++i
+
+-
+
+-
+
+-
+
+co-occurs with
+
+M2f,1
+
+M1i,2
+
+M2i,2 M5f,1,2
+
+M6 f,1
+
+M7o,1
+
+M8i,1
+
+M6i,2,M7i,2
+
+position(s)
+
+1f ,2i
+
+1f,2o,3o,4i
+
+2f
+
+1i,2f,3f
+
+1i,2f,3f
+
+3f,4f,5f
+
+3i,7f
+
+7i
+
+closes abstract
+
+-
+
++i
+
+-
+
++f
+
++i
+
++f
+
++o
+
++i
+
+independent
+
++o
+
++f
+
++i
+
++f
+
++i
+
++f
+
++i
+
+-
+
+partially embedded
+
++o
+
++o
+
+-
+
+M5f,2
+
+M4f
+
+M5i,2
+
++i
+
++i
+
+fully embedded
+
++o
+
++o
+
++i
+
++o
+
++o
+
++o
+
++i
+
+-
+
+forms move cycle
+
++i
+
++i
+
+-
+
++i
+
++i
+
++i
+
+-
+
+-
+
+Fig. 2. LRA abstract move features. Occurrence indicators: f ¼ frequent, o ¼ occasional, i ¼ infrequent; Move co-occurrence indicators: 1 ¼ is the first move, 2 ¼ follows a move; Move position indicators: 1 ¼ first of 8 possible positions/abstract.
+
+
+
+
+
+50
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+1990), especially in abstract inanimate subject and active verb combinations (Master, 2001), in LRA abstracts some attempts at setting the scientific tone resulted in an inanimate subject performing an unlikely action, as in: (4) This article interrogates representations of time in the novels of Sam Taylor. [A128] (emphasis added) This feature of the abstracts is not in harmony with the careful language work that characterizes the abstracts overall. It may indicate the literary scholars’ inexperience with the use of impersonal style.
+
+The onset of the move was typically signaled with the sentence initial this essay/article þ present tense verb structure, which has an immediacy effect expressing that the LRA is not a documentation of past research. Occasionally, the author was thematized (i.e., I, my, we, the author) contrary to the MLA guidelines, but present tense and active voice dominated the move, in which respect the LRA abstracts followed the guidelines.
+
+4.2.2. Background (M2)
+
+The move provides general information about the topic to situate the research issue in the wider context of literary studies.
+
+It is signaled by the pronounced emphasis on the LRA subject matter and characterized by the prevalence of present tense, which may indicate an aim to accentuate research topic currency. It frequently opened the abstract; therefore, it functionally overlaps with M1 and with M1 (Establishing a territory; Steps 1, 2, 3) in the CARS model.
+
+The presence of this move and of the direct quotations does not match the MLA guidelines, which stipulates that “generalizations (i.e., ‘Romanticism flourished in the 19th century’), background information, and, ordinarily, references to previous work” (p. 459) or direct quotations must not appear in informative abstracts.
+
+Given that the move often contained knowledge-claim-like statements, it is noteworthy that except for one instance the authors did not relate the statements to identifiable sources as if they considered such an act of validation unnecessary, as in: (5) The handkerchief in Othello has widely been assumed to be white. [A035]
+
+In a few cases, unspecific attributions (e.g., critics, scholars, scholarship, scholarly consensus) were found. Furthermore, present perfect passive verb forms were also frequent, as in:
+
+(6) Much has been written about hearing in Hamlet. [A059]
+
+It seems that the members of the literary discourse community identify theirs as a high-context culture (Hall, 1976) in which less information is to be coded in abstracts to activate shared internalized information.
+
+4.2.3. Niche (M3)
+
+This move creates a place for the research paper and functionally matches M2 (Establishing a niche) in the CARS model.
+
+The strategies used were research gap indication, counter claiming, question raising, or fresh appraisal of earlier research. The last strategy is illustrated with the example:
+
+(7) This turn to religion suggests a renewed interest in the anthropological underpinnings of Shakespeare's plays. It also suggests a new approach to the idea of the modern in literary history. [A028]
+
+The infrequency of the move indicates that few authors considered the creation of a niche necessary. This concurs with the MLA guidelines, which does not endorse this rhetorical act. Even those authors who made this rhetorical effort rarely performed a confrontational rhetorical act. The (animate) agents because of whom the existing body of research suffers from limitations were absent. This may show that literary scholars do not consider abstracts the site for intense scholarly debate.
+
+Some of the linguistic signals of gap indication were phrases like have received less attention, overlooked a crucial aspect of or does not yet exist and adversative connectors. The present perfect tense occurred more frequently than the present simple tensearguably to emphasize the effect of a past action.
+
+4.2.4. Purpose (M4)
+
+The move announces the authors’ aims by stating theses or outlining goals and using the present simple tense, as in: (8) In this essay, Gjesdal takes issue with this assumption. [A038]
+
+It functionally resembles M2 (Occupying the niche), Step 1A (Outlining purposes) in the CARS model.
+
+According to the MLA guidelines, this rhetorical act should be performed in the ‘topic sentence’ (p. 459) of the abstract, but given that the typical position for this move is 2 or 3 (cf. Fig. 2), the authors' practice, quite rightly, does not reflect the specification.
+
+
+
+
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+51
+
+Although article was frequently the syntactic subject, self-reference reappeared (I, my, we, the authors) in this move. Some authors used their names probably to establish an objective tone while thematizing themselves. Such references are specifically discouraged in the MLA guidelines.
+
+4.2.5. Method (M5)
+
+In accordance with the MLA guidelines, this move, like M2 (Occupying the niche), Step 1B (Announcing present research) in the CARS model, provides procedural information about the investigation, as in:
+
+(9) Drawing on postcolonial, feminist, historicist, and formalist methodologies, …[A 111]
+
+The move was frequently signaled by a fronted participle clause and the present tense was used. Occasionally self-mention (I, my) also occurred, and some authors used their names, giving a third person point of view account.
+
+4.2.6. Outcome (M6)
+
+This move presents the outcomes of the research in the form of descriptive summative statements of the main or most interesting ideas and rarely in the form of a straightforward outline of the main ideas organized as they feature in the RA, which is what should characterize all informative abstracts according to the MLA guidelines. It therefore has the same function as M2 (Occupying the niche), Step 2 (Announcing principal findings) in the CARS model.
+
+The move is characterized by the use of present tense with infrequent instances of passive voice forms. A few self-mentions (I, my or the author's name) occurred, but most syntactic subjects were inanimate. However, the largest cate-gory of subjects featured proper noun-verb combinations (e.g., Eliot invokes, The Grapes of Wrath … seems) and common nouns denoting the objects of the analysis followed by a verb (e.g., the novel inaugurates).
+
+This move type contained a large number of linking devices. These were rendered necessary by the length and by the syntactic and conceptual complexity of the move: the explicitation was most likely intended to facilitate information processing. In many cases, this move did not show “the meaningful, coherent relationship between the author's ideas and arguments” as specified in the MLA guidelines because it presented highlights from the LRA rather than “a succinct condensation of what the article says” (p. 459).
+
+4.2.7. Conclusion (M7)
+
+This move rounds up the abstract with a final summative comment directly related to the research problem raised in Purpose or Topic/Background, as in:
+
+(10) Biovalue in Butler's posthumanist vision, I conclude, inheres in the moral enhancement of Shori and is the result of her multispecies citizenship. [A121]
+
+The move is characterized by the use of the simple present tense and a higher level of specificity than Purpose or Topic. It seems to function as the thesis specified in the MLA guidelines. In the few instances identified, the authors were thematized, and the onset was signaled with conclusion indicators. Given the low frequency of the move, contrary to the MLA guidelines, it seems that literature scholars do not consider this rhetorical act important.
+
+4.2.8. Implications (M8)
+
+The last move formulates recommendations for future research or highlights the practical significance of the research outcomes, as in:
+
+(11) In conclusion I consider the implications these durational readings have for formalist discussions by critics such as G
+
+erard Genette and Garrett Stewart. [A070]
+
+It is the least frequent move and when present, it was realized in the present tense. As the example shows, it only announces rather than briefly restates the gist of what is recommended.
+
+To summarize the findings discussed in this section, the description of the characteristic features of the moves shows that the LRA abstract is written primarily in the present tense, with a functional shift to the present prefect tense in M3 (Niche).
+
+Active and middle voice use dominates. The ascribing of knowledge-claims to researchers, the establishment of a research niche, and direct confrontation with other researchers are uncommon. The thematization of inanimate subjects is frequent, and the most frequent and stable moves also feature varying instances of self-mention, which shows an insecure use of scientific tone. Most of the moves have overt signals, which helps their identification.
+
+In terms of rhetorical organization, the LRA abstract overlaps more with the CARS model. Contrary to the MLA guidelines, which seems to have little currency today, it is not the reproduction of the gist of the RA. Furthermore, in terms of typological membership, the LRA abstract seems to be a mix of the descriptive and informative abstracts, with markedly more of the descriptive abstract features. First, present tense use dominates. LRA abstracts help the reader understand the general nature and scope of the research by providing information about the topic, background, and main points made, but they do not
+
+
+
+
+
+52
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+summarize the RA and consequently cannot effectively substitute it. There is no systematic reproduction of the gist of the outcome or conclusions, and the authors use third-person reference and a detached style with varying success. However, uncharacteristically of descriptive abstracts, passive voice was found to be infrequent. A few moves were also quite informative, and therefore the abstracts may be useful for literary scholars, which feature, in addition to the move types, makes them similar to informative abstracts. Moreover, like informative abstract writers, LRA abstract authors also used self-reference and active voice, albeit often with inanimate subject and animate verb combinations. It seems that the attempt of the MLA guidelines to prescribe the use of informative abstracts failed. The reasons for this may be that the specifications are old, occasionally illogical (cf. Section 4.2.4), no more upheld by PMLA or the MLA abstract system, or that the practices of literary scholars are not the logical positivistic ones that MLA seems to have attempted to endorse.
+
+4.3. Syntactic complexity
+
+Most abstracts consisted of 4e5 sentences (X ¼ 4.91, þx ¼ 5.00, Mo ¼ 4.00, SD ¼ 2.00), which matches humanities journal abstract findings, but the average LRA abstract had fewer sentences than natural sciences abstracts (Orasan, 2001). Sentence length ranged between 3 and 81 words (X ¼ 30.23, Mo ¼ 24, SD ¼ 13.26). Half of the sentences (50.2%) contained 16e35
+
+words, 12.8% had 45-81, and 2.3% ten or fewer words. This shows that compared to linguistics and natural sciences, where an average 24e27 words/sentence was the norm (Holtz, 2011; Orasan, 2001), the LRA abstracts contained longer sentences.
+
+The clause length per move indices (Table 5) show that Method contained the longest clauses, which explains the lower clause counts in this move sub-corpus. The reverse holds for Purpose and Outcome.
+
+It can be concluded, therefore, that LRA abstracts contain fewer but longer sentences in comparison with abstracts in other disciplines. This made the abstracts grammatically complex, given that sentence length is an indicator of syntactic complexity
+
+(Biber & Conrad, 2009). LRA abstract authors do not follow the MLA guidelines, which suggests that authors should not write overlong or complex sentences.
+
+4.4. Lexical richness
+
+The lexical richness of the moves was determined with three measures: lexical density, lexical sophistication, and lexical variation. The lexical density (LD) indices were above 0.5 for each move sub-corpus (Table 6). Because this index shows “how closely packed the information is” (Halliday, 1985: 66), LRA abstracts can be considered texts with high information content.
+
+This is reinforced by the LD indices generated with the same software for 50 high-rated academic summaries and 50 high-rated argumentative essays written by students. The average LD values were 0.50 for the summaries and 0.46 for the essays
+
+(Tank
+
+o, 2016). The fact that the indices of the move corpora are higher than the index calculated for summaries shows that the abstracts are lexically dense.
+
+Lexical sophistication (LS) (cf. Laufer, 1994) indices ranged between 0.33 and 0.63 for the move sub-corpora (Table 6).
+
+Given that the average LS indices calculated for the above described sets of student scripts were 0.33 for summaries and 0.27
+
+Table 5
+
+Number and mean length of clauses.
+
+Move sub-corpora
+
+Clauses
+
+X length in words
+
+M6
+
+Outcome
+
+721
+
+12.23
+
+M4
+
+Purpose
+
+346
+
+11.11
+
+M2
+
+Background
+
+233
+
+14.11
+
+M1
+
+Topic
+
+101
+
+13.03
+
+M5
+
+Method
+
+99
+
+16.97
+
+M7
+
+Conclusion
+
+56
+
+11.36
+
+M3
+
+Niche
+
+27
+
+12.11
+
+M8
+
+Implications
+
+5
+
+13.00
+
+Total
+
+1.558
+
+X length ¼ 12.56
+
+Table 6
+
+Lexical richness of the moves.
+
+Move
+
+Lexical
+
+Move
+
+Lexical Soph.
+
+Move
+
+Lexical
+
+Density
+
+Var.
+
+Topic
+
+0.57
+
+Outcome
+
+0.63
+
+Niche
+
+41.40
+
+Background
+
+0.56
+
+Background
+
+0.55
+
+Background
+
+39.60
+
+Method/Purpose
+
+0.55
+
+Purpose
+
+0.55
+
+Conclusion
+
+39.20
+
+Outcome
+
+0.53
+
+Method
+
+0.53
+
+Purpose
+
+38.30
+
+Implications
+
+0.52
+
+Topic
+
+0.52
+
+Outcome
+
+38.20
+
+Concl., Niche
+
+0.51
+
+Conclusion
+
+0.41
+
+Method
+
+36.70
+
+Niche, Implic.
+
+0.33
+
+Topic
+
+36.10
+
+
+
+
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+53
+
+for essays (Tank
+
+o, 2016), most of the indices reported for the move corpora show a high level of lexical sophistication in the abstracts. These findings demonstrate that LRA abstracts contain mostly advanced vocabulary.
+
+Finally, the lexical variation (LV) indices were calculated for each move sub-corpus. Because this measure is sensitive to word count, the mean number of different words from 10 random 50-word sequences selected by the software (Lu, 2012) from each move sub-corpus was used in the analysis. Given the small size of the sub-corpus, Implications was excluded from this analysis. The indices for the sub-corpora were above 0.36. As a comparison, the average LV indices calculated for the summaries and essays were, respectively, 38.46 and 37.96 (Tank
+
+o, 2016), which is almost identical with the lexical variation in
+
+the abstracts.
+
+Based on the above findings, LRA abstracts contain fewer but longer sentences than abstracts in other disciplines, which shows that their syntactic complexity is high. This also provides an explanation for the presence of embedded moves in the corpus and highlights the functional complexity of the sentences in rhetorical terms. Furthermore, LRA abstracts are lexically dense texts and contain advanced vocabulary consisting of low frequency words. The combination of complex grammatical structures with the preference for syntactic order reversal, the high information content, and the use of non-frequent words makes LRA abstracts rather difficult to process. This is consistent with the comments made by the proficient English speaker MA students who were involved in the initial coding process that they found the abstracts linguistically difficult. Arguably, the level of elaboration may even affect the communicative potential of the part-genre.
+
+5. Conclusion
+
+This study makes a number of theoretical, research methodological and pedagogical contributions directly to genre analysis and thereby to EAP. First, because the LRA abstract as a genre has not been analyzed and defined by genre analysts, this study constitutes a first genre analysis of an undocumented genre from a divergent discipline. As such, it contributes to the expanding body of formal, thematic and social usage knowledge on genres.
+
+The methodology used in the research is innovative with respect to the tools previously used by analysts for the identification of typical rhetorical action. The study provides evidence that move stability criteria defined with arbitrarily set frequency of occurrence values may be counterproductive. It shows that a traditional measure like the frequency of occurrence value can be effectively augmented by the code quantity principle for the identification of salient rhetorical acts.
+
+Moreover, it also demonstrates that a conventional lexico-grammatical analysis can be reliably enhanced with computational syntactic complexity and lexical richness analyses.
+
+The study is a critical analysis in the sense that it does not simply establish, for example, that LRA abstracts are indicative-informative abstracts, but it also highlights their weakness and strengths. It therefore informs EAP pedagogy by drawing attention to such teachable aspects as the linguistic tools available for effective move signaling and research space creation, or the semantically acceptable use of middle voice as a self-reference avoidance technique in English academic prose. As such, it is expected to be relevant primarily for literary scholars who publish and to EAP or literature teachers who train novice literary scholars (e.g., BA, MA thesis writers) engaged in the process of mastering the craft of writing effective abstracts.
+
+There are a number of limitations that need to be addressed. Due to the unavailability of lexical and syntactic complexity data on abstracts in other disciplines, the complexity indices of LRA abstracts could not be compared to data on identical part-genres, which would have probably made the comparisons more meaningful. As any discourse analytical study that focuses only on the product of disciplinary communication, the findings of this study could have been validated and expanded with interview data conducted with literary scholars.
+
+Furthermore, whereas the abstracts selected from the four highest impact factor journals may illustrate the best disciplinary practice, such journals may not necessarily be the most appropriate or dynamic fora for capturing the true evolu-tionary status of the LRA abstract. A larger corpus of abstracts from journals accessible to a wider authorship may provide more accurate insights for genre analysts and for the users of the genre.
+
+Although it seems to fit the expectations formulated in connection with indicative abstracts in the MLA guidelines, the reduced rhetorical attention to Niche, Conclusion, and Implications would deserve further investigation. Interview studies with LRA authors could be conducted to help better understand the disciplinary practices and expectations that shape this part-genre. In future research it would probably also be worthwhile to expand the study to further journals in order to better map the norms of the literary discourse community and the perceived functions of the LRA abstract in this discourse community.
+
+Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at http://dx.doi.org/10.1016/j.jeap.2017.04.003.
+
+References
+
+Anderson, K., & Maclean, J. (1997). A genre analysis study of 80 medical abstracts. Edinburgh Working Papers in Applied Linguistics, 8, 1e23.
+
+Arvay, A., & Tanko, Gy. (2004). A contrastive analysis of English and Hungarian theoretical research article introductions. IRAL, 42, 71e100.
+
+Barton, D. (1994). Literacy: An introduction to the ecology of written language. UK: Blackwell: Oxford.
+
+Bazerman, C. (1988). Shaping written knowledge: The genre and activity of experimental article in science. Madison, WI: University of Wisconsin Press.
+
+Bex, T. (1996). Variety in written English. Texts in society: Society in texts. London, UK: Routledge.
+
+54
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+Bhatia, V. K. (1993). Analysing genre: Language use in professional settings. London, UK: Longman.
+
+Bhatia, V. K. (2001). Analysing genre: Some conceptual issues. In M. Hewing (Ed.), Academic writing in context: Implications and applications. Papers in honour
+
+of Tony Dudley-Evans (pp. 79e92). Birmingham, UK: University of Birmingham Press.
+
+Biber, D., & Conrad, S. (2009). Register, genre, and style. New York, NY: Cambridge University Press.
+
+Bondi, M., & Lor
+
+es Sanz, R. (2014). Abstracts in academic discourse: Variation and change. Bern, Germany: Peter Lang.
+
+van Bonn, S., & Swales, J. M. (2007). English and French journal abstracts in the language sciences: Three exploratory studies. Journal of English for Academic
+
+Purposes, 6(2), 93e108.
+
+Busch-Lauer, I. (1995). Abstracts in German medical journals: A linguistic analysis. Information Processing & Management, 31(5), 769e776.
+
+Cross, C., & Oppenheim, C. (2006). A genre analysis of scientific abstracts. Journal of Documentation, 62(4), 428e446.
+
+Day, R. A. (1988). How to write & publish a scientific paper (3rd ed.). Phoenix, AZ: Orynx Press.
+
+Diani, G. (2014). On English and Italian research article abstracts: Genre variation across cultures. In M. Bondi, & R. Lor
+
+es Sanz (Eds.), Abstracts in academic
+
+discourse: Variation and change (pp. 65e83). Bern, Germany: Peter Lang.
+
+Douglas, B., Connor, U., & Upton, T. A. (2007). Discourse on the move: Using corpus analysis to describe discourse structure. Amsterdam: John Benjamins.
+
+Dudley-Evans, T. (1994). Genre analysis: An approach to text analysis for ESP. In M. Coulthard (Ed.), Advances in written text analysis (pp. 219e228). London,
+
+UK: Routledge.
+
+Feltrim, V. D., Aluísio, S. M., & Nunes, M. G. V. (2003). Analysis of the rhetorical structure of computer science abstracts in Portuguese. In D. Archer, P. Rayson,
+
+A. Wilson, & T. McEnery (Eds.), Proceedings of the corpus linguistics conference (pp. 212e218). Lancaster University.
+
+Flowerdew, L. (2005). An integration of corpus-based and genre-based approaches to text analysis in EAP/ESP: Countering criticisms against corpus-based
+
+methodologies. English for Specific Purposes, 24, 321e332.
+
+For Members Only. (1968), 2. PMLA (Vol. 83, pp. 456e474). Retrieved from http://www.jstor.org/stable/1261199.
+
+Germano, W. (2008). Getting it published: A guide for scholars and anyone else serious about serious books (2nd ed.). Chicago, IL: University of Chicago Press.
+
+Gillaerts, P., & Van de Velde, F. (2010). Interactional metadiscourse in research article abstracts. Journal of English for Academic Purposes, 9, 128e139.
+
+Giv
+
+on, T. (1985). Iconicity, isomorphism and non-arbitrary coding in syntax. In J. Haiman (Ed.), Iconicity in syntax (pp. 187e219). Amsterdam: John
+
+Benjamins.
+
+Goldbort, R. (2002). Abstracts for scientific articles. Journal of Environmental Health, 65, 26e28.
+
+Hall, E. T. (1976). Beyond culture. New York, NY: Anchor Books.
+
+Halliday, M. A. K. (1985). Spoken and written language. Geelong: Deakin University Press.
+
+Hartley, J. (1999). Applying ergonomics to applied Ergonomics: Using structured abstracts. Applied Ergonomics, 30, 535e541.
+
+Hartley, J. (2003). Improving the clarity of journal abstracts in psychology: The case for structure. Science Communication, 24(3), 366e379.
+
+Hartley, J., & Benjamin, M. (1998). An evaluation of structured abstracts in journals published by the British Psychological Society. British Journal of
+
+Educational Psychology, 68(3), 443e456.
+
+Hatzitheodorou, A.-M. (2014). A genre-oriented analysis of research article: Abstracts in law and business journals. In M. Bondi, & R. Lor
+
+es Sanz (Eds.),
+
+Abstracts in academic discourse: Variation and change (pp. 175e198). Bern, Germany: Peter Lang.
+
+Henry, A., & Roseberry, R. L. (1997). An investigation of the functions, strategies and linguistic features of the introductions and conclusions of essays.
+
+System, 25(4), 479e495.
+
+Henry, A., & Roseberry, R. L. (2001). A narrow-angled corpus analysis of moves and strategies of the genre: 'Letter of application'. English for Specific Purposes,
+
+20(2), 153e167.
+
+Holmes, R. (1997). Genre analysis, and the social sciences: An investigation of the structure of research article discussion sections in three disciplines.
+
+English for Specific Purposes, 16(4), 321e337.
+
+Holtz, M. (2011). Lexico-grammatical properties of abstracts and research articles: A corpus-based study of scientific discourse from multiple disciplines.
+
+Darmstadt: Technischen Universit€
+
+at Darmstadt. Unpublished doctoral dissertation.
+
+Hopkins, A., & Dudley-Evans, T. (1988). A genre-based investigation of the discussion sections in articles and dissertations. English for Specific Purposes, 7(2),
+
+113e121.
+
+Huckin, T. (2001). Abstracting from abstracts. In M. Hewings (Ed.), Academic writing in context: Implications and applications. Papers in honour of Tony Dudley-
+
+Evans (pp. 93e105). Birmingham, UK: University of Birmingham Press.
+
+Hyland, K. (2000). Disciplinary discourses: Social interactions in academic writing. London, UK: Longman.
+
+Hyland, K. (2004). Genre and second language writing. Ann Arbor, MI: University of Michigan.
+
+IBM Corp. (2011). IBM SPSS statistics for windows, version 20.0. Armonk, NY: IBM Corp.
+
+Kanoksilapatham, B. (2005). Rhetorical structure of biochemistry research articles. English for Specific Purposes, 24(3), 269e292.
+
+Laufer, B. (1994). The lexical profile of second language writing: Does it change over time? RELC Journal, 25(2), 21e33.
+
+Liddy, E. D. (1991). The discourse-level structure of empirical abstracts: An exploratory study. Information Processing and Management, 27(1), 55e81.
+
+Lor
+
+es, R. (2004). On RA abstracts: From rhetorical structure to thematic organization. English for Specific Purposes, 23, 280e302.
+
+Lu, X. (2011). A corpus-based evaluation of syntactic complexity measures as indices of college-level ESL writers' language development. TESOL Quarterly,
+
+45(1), 36e62.
+
+Lu, X. (2012). The relationship of lexical richness to the quality of ESL learners' oral narratives. The Modern Language Journal, 96(2), 190e208.
+
+Martín-Martín, P. M. (2003). A genre analysis of English and Spanish research paper abstracts in experimental social sciences. English for Specific Purposes,
+
+22(1), 25e43.
+
+Master, P. (1991). Active verbs with inanimate subjects in scientific prose. English for Specific Purposes, 10(1), 15e33.
+
+Master, P. (2001). Active verbs with inanimate subjects in scientific research articles. In M. Hewings (Ed.), Academic writing in context. Implications and
+
+applications. Papers in honour of Tony Dudley-Evans (pp. 169e181). Birmingham, UK: University of Birmingham Press.
+
+National Information Standards Organization. (1997). Guidelines for abstracts. Bethesda: NISO.
+
+Nwogu, K. N. (1991). The structure of science popularizations: A genre-analysis approach to the schema of popularized medical texts. English for Specific
+
+Purposes, 10(2), 111e123.
+
+Nwogu, K. N. (1997). The medical research paper: Structure and functions. English for Specific Purposes, 16(2), 119e138.
+
+Orasan, C. (2001). Patterns in scientific abstracts. In P. Rayson, A. Wilson, T. McEnery, A. Hardie, & S. Khoja (Eds.), Proceedings of the corpus linguistics 2001
+
+conference (pp. 433e443). Lancaster, UK: Lancaster University.
+
+Ortega, L. (2003). Syntactic complexity measures and their relationship to L2 proficiency: A research synthesis of college-level L2 writing. Applied Linguistics,
+
+24(4), 492e518.
+
+Paltridge, B. (1996). Genre, text type and the language learning classroom. ELT Journal, 50(3), 237e243.
+
+Paltridge, B. (1997). Genre, frames and writing in research settings. Amsterdam and Philadelphia: John Benjamins.
+
+Pho, P. D. (2008). Research article abstracts in applied linguistics and educational technology: A study of linguistic realizations of a study of rhetorical
+
+structure and authorial stance. Discourse Studies, 10(2), 231e250.
+
+Quirk, R., Greenbaum, S., Leech, G., & Svartvik, J. (1985). A comprehensive grammar of the English language. London, UK: Longman.
+
+Read, J. (2000). Assessing vocabulary. Cambridge, UK: CUP.
+
+Salager-Meyer, F. (1990). Discoursal movements in medical english abstracts and their linguistic exponents: A genre analysis study. Interjiree, 4(2), 107e124.
+
+Salager-Meyer, F. (1992). A text-type and move-analysis study of verb tense and modality distribution in medical English abstracts. English for Specific
+
+Purposes, 11(2), 93e113.
+
+Samraj, B. (2005). An exploration of a genre set: Research article abstracts and introductions in two disciplines. English for Specific Purposes, 24(2), 141e156.
+
+Santos, M. B. dos (1996). The textual organization of research paper abstracts in applied linguistics. Text, 16(4), 481e499.
+
+G. Tank
+
+o / Journal of English for Academic Purposes 27 (2017) 42e55
+
+55
+
+Santos, V. B. M. P. dos (2002). Genre analysis of business letters of negotiation. English for Specific Purposes, 21(2), 167e199.
+
+Schmid, H. (1994). Probabilistic part-of-speech tagging using decision trees. In D. Jones (Ed.), International conference on new methods in language processing
+
+(pp. 44e49). Manchester, UK: University of Manchester Institute of Science and Technology.
+
+Scott, M. (2012). WordSmith tools version 6. Liverpool: Lexical Analysis Software.
+
+Stotesbury, H. (2003). Evaluation in research article abstracts in the narrative and hard sciences. Journal of English for Academic Purposes, 2(4), 327e341.
+
+Swales, J. M. (1990). Genre analysis: English in academic and research settings. Cambridge, UK: Cambridge University Press.
+
+Swales, J. M. (2004). Research genres: Explorations and applications. Cambridge, UK: Cambridge University Press.
+
+Swales, J. M., & Feak, C. B. (2004). Academic writing for graduate students (2nd ed.). Ann Arbor, MI: University of Michigan.
+
+Swales, J. M., & Feak, C. B. (2009). Abstracts and the writing of abstracts. Ann Arbor, MI: The University of Michigan.
+
+Swales, J. M., & Feak, C. B. (2010). From text to task: Putting research on abstracts to work. In M. F. Ruiz-Garrido, J. C. Palmer-Silveira, & I. Fortanet Gom
+
+ez
+
+(Eds.), English for professional and academic purposes (pp. 167e180). Amsterdam: Rodopi (<x>).
+
+Tank
+
+o, Gy. (2005). A move structure model of the Anglo-American formal argumentative essay. Budapest: E€
+
+otv€
+
+os Lor
+
+and University. Unpublished doctoral
+
+dissertation.
+
+Tank
+
+o, Gy. (2016). Written summarisation for academic writing skills development: A corpus based contrastive investigation of EFL student writing. In N.
+
+Dobric, E.-M. Graf, & A. Onysko (Eds.), Corpora in Applied Linguistics: Current Approaches (pp. 53e78). Cambridge, UK: Cambridge Scholars Publishing.
+
+Taddio, A., Pain, T., Fassos, F. F., Boon, H., Ilersich, A. L., & Einarson, T. R. (1994). Quality of nonstructured and structured abstracts of original research articles
+
+in the british medical journal, the canadian medical association journal and the journal of the american medical association. Canadian Medical Asso-
+
+ciation Journal, 150(10), 1611e1615.
+
+Tseng, F. (2011). Analyses of move structure and verb tense of research article abstracts in applied linguistics journals. International Journal of English
+
+Linguistics, 1(2), 27e39.
+
+Turabian, K., Williams, J., Colomb, G., & Booth, W. (2010). A manual for writers of research papers, theses, and dissertations: Chicago style for students and
+
+researchers (7th). Chicago, IL: University of Chicago.
+
+Gyula Tank
+
+o has a PhD in Language Pedagogy. Teaches and researches discourse analysis, academic writing, and language testing (General English, English for Academic Purposes, and English for Diplomatic Purposes).
+
+
+
+
+
+Document Outline
+
+
+Literary research article abstracts: An analysis of rhetorical moves and their linguistic realizations 1. Introduction
+
+2. Literature review 2.1. Research article text abstract typology
+
+2.2. Rhetorical moves
+
+
+
+
+
+3. Methodology 3.1. The corpus and historical background of the LRA abstract
+
+3.2. Move analysis 3.2.1. Identification of the moves
+
+3.2.2. Software-driven analysis
+
+
+
+
+
+4. Results and discussion 4.1. Rhetorical move structure 4.1.1. Move frequency and invested rhetorical effort
+
+4.1.2. Embedding and syntactic reversal in moves
+
+4.1.3. Move cycles
+
+4.1.4. Move sequences
+
+
+
+
+
+4.2. The functions and the linguistic characteristics of moves 4.2.1. Topic (M1)
+
+4.2.2. Background (M2)
+
+4.2.3. Niche (M3)
+
+4.2.4. Purpose (M4)
+
+4.2.5. Method (M5)
+
+4.2.6. Outcome (M6)
+
+4.2.7. Conclusion (M7)
+
+4.2.8. Implications (M8)
+
+
+
+
+
+4.3. Syntactic complexity
+
+4.4. Lexical richness
+
+
+
+
+
+5. Conclusion
+
+Appendix A. Supplementary data
+
+References
+
+
+
+
+

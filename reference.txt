@@ -1,0 +1,1554 @@
+English for Speciﬁc Purposes 64 (2021) 13–25
+
+Contents lists available at ScienceDirect
+
+English for Speciﬁc Purposes
+
+j o u r n a l h o m e p a g e : h t t p : / / e e s . e l s e v i e r . c o m / e s p / d e f a u l t . a s p
+
+Delivering relevance: The emergence of ESP as a discipline
+
+Ken Hyland a, *, Feng (Kevin) Jiang b
+
+a School of Education and Lifelong Learning, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ United Kingdom
+b Jilin University, 2699 Qianjin St, Chaoyang District, Changchun, Jilin, China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Available online 15 July 2021
+
+Keywords:
+Bibliometrics
+ESP research
+ESP topics
+ESP authors
+ESP publications
+Citations
+
+Since its emergence in the 1960s, ESP has become a key aspect of language teaching and
+research. This paper traces the last 30 years of this journey to show its emergence from the
+periphery of applied linguistics to a serious force on the world stage. To do this we use
+bibliometric techniques to track changes in ESP research through an analysis of all 3,500
+papers on the Social Science Citation Index since 1990 dealing with ESP topics. We identify
+which topics have been most prevalent and which authors, publications, journals and
+countries most inﬂuential over time. The results indicate that classroom practices remain
+central to the discipline and that there has been a consistent interest in specialised texts,
+particularly written texts, and in higher education and business English, with a massive
+increase in attention devoted to identity and academic and workplace discourses. The
+global
+interest in these questions is shown by the range of authors, diversity of
+geographical sources and the uptake of papers in a range of ﬁelds. We believe our ﬁndings
+may interest both ESP professionals in identifying crucial publishing areas and academics
+fascinated by the emergence of a new discipline.
+
+(cid:1) 2021 Elsevier Ltd. All rights reserved.
+
+English for Speciﬁc Purposes distinguishes itself from more general language study through a focus on particular, pur-
+poseful uses of language, or what Cummins (1982) refers to as ‘context-reduced’ language. This tends to be generally more
+abstract and less dependent on the immediate setting for its coherence than everyday language use. A commitment to
+language instruction that attends to students’ speciﬁc purposes for learning English has given ESP a unique place in the
+development of both theory and innovative practice in language instruction since the term ﬁrst emerged in the 1960s. With
+countless students and professionals around the world now required to gain ﬂuency in the conventions of their particular
+communicative domain of English to steer their learning and promote their careers, ESP has consolidated and expanded its
+role. It is now a major player in both research and pedagogy in applied linguistics, with a large and growing contribution from
+researchers around the world.
+
+These changing research concerns and sources are the topic of this paper. Adopting a bibliometric approach, we explore
+the literature over the past 30 years (1990–2020) to trace the interests of the ﬁeld during a formative part of its emergence as
+a discipline. Following our earlier paper looking at how research in EAP has evolved (Hyland & Jiang, 2021), we seek to identify
+changes in the research themes, prominent journals, books, papers and authors of ESP together with its geographical sources,
+and its citing ﬁelds. Speciﬁcally, we address these ﬁve questions:
+
+(1) What have been the most frequently explored themes and have these changed?
+
+* Corresponding author.
+
+E-mail address: K.hyland@uea.ac.uk (K. Hyland).
+
+https://doi.org/10.1016/j.esp.2021.06.002
+0889-4906/(cid:1) 2021 Elsevier Ltd. All rights reserved.
+
+14
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+(2) Which authors have been most inﬂuential and have these changed?
+(3) Which publications have been most inﬂuential and have these changed?
+(4) Which countries have been most productive in contributing to this research over the period and have these changed?
+(5) Which journals have published the most ESP papers and which journals have been most active in citing them?
+
+1. ESP: characteristics and contexts
+
+English for Speciﬁc Purposes is based around the simple idea of researching and delivering speciﬁc, learner-centred
+language instruction. Early on, Peter Strevens (1977) distinguished ESP in terms of: the primacy it gave to language-using
+purposes, the need to align curricular content with learner goals, and the use of appropriate teaching methods. The ﬁeld
+emerged in the early 1960s as a response to the increasing globalisation of world markets and the growth of English as a
+commercial lingua franca to facilitate this (e.g. Hutchinson & Waters, 1987). In this context, language teachers found
+themselves teaching technical English to non-native students and needing information about their discourses to do so
+(Swales, 1988). ESP thus grew out of text-based counts of grammar features in written technical documents, which quickly
+gave way to more explanatory models which sought to connect technical lexico-grammar and authors’ rhetorical purposes.
+This interest in what particular groups are seeking to do with language coalesces around the core concept of learner needs.
+It is the various views of this concept which inform ESP’s focus on discourse features and text structures and which has
+pushed its expansion into ever more genres and professional areas. ESP is aided in this enterprise by a receptiveness to
+different research perspectives and methods and a strong desire to marry theory and practice (Anthony, 2019; Belcher, 2009;
+Johns, 2013). ESP, then, is an approach to language education based on identifying the speciﬁc language features, discourse
+practices, and communicative skills of target groups while recognising the subject-matter needs and expertise of learners
+(Hyland, 2006).
+
+ESP is often seen as having two branches, English for Academic Purposes and English for Occupational Purposes (e.g. Orr,
+2002; Ramírez, 2015), with ever-increasing sub-divisions and their equally proliferating acronyms (e.g. Dudley-Evans & St
+John, 1998). However, as Belcher observes:
+
+There are, and no doubt will be, as many types of ESP as there are speciﬁc learner needs and target communities that
+learners wish to thrive in. (Belcher, 2009: 2)
+
+The picture is further complicated by hybrids such as English for Academic Legal Purposes (EALP) to describe courses for
+those studying law rather than practising it, who might need English for Legal Purposes (ELP). Subtypes abound, and the
+British Council1 includes Survival English for immigrants and English for Hotel Management among the branches of ESP. Such
+proliferation of types, and their pedagogic value to growing numbers of clients, has helped establish ESP as a leading area of
+language education.
+
+There have been numerous attempts to map ESP’s evolution, largely by luminaries of the ﬁeld drawing on their knowledge
+of its main areas and interests. Hutchinson and Waters (1987) and Dudley-Evans and St John (1998), for instance, see a
+movement from register analysis to greater concern with discourse, target situations, identiﬁcation of needs, and skills. Upton
+(2012) identiﬁes a similar movement from ‘words and structures’ to ‘texts and purposes’, to ‘learners and genres’ to ‘contexts
+and interactions’. Johns (2013) also traces four periods, each of ten years, in the life of ESP as it moved away from text-based
+counts of grammatical features to rhetorical analysis, the introduction of genre and moves, the dominance of genre, and a
+future characterised by expansion of methodologies, geographical regions and growing attention to multimodalities.
+
+Reviews have also sought to identify the key areas of ESP (e.g. Belcher, 2009; Paltridge & Starﬁeld, 2011), with needs
+analysis, genre, corpus studies, and specialised language skills and lexis ﬁguring prominently. Handbooks add themes such as
+disciplinary variation, intercultural rhetoric, English as a Lingua Franca and critical perspectives to these (Hyland & Shaw,
+2016; Paltridge & Starﬁeld, 2013). Beyond these impressionistic surveys, some studies have systematically examined pub-
+lished papers to distinguish key aspects of the ﬁeld, focusing on the ﬂagship journals English for Speciﬁc Purposes (ESPJ) and
+Journal of English for Academic Purposes (JEAP) (e.g. Johns, 2013; Master, 2005; Paltridge & Starﬁeld, 2011). Hewings (2002), for
+example, analysed papers published in ESPJ between 1980 and 2001, ﬁnding a gradual trend towards a predominance of
+written discourse analysis, largely concerned with published, rather than student texts. Gollin-Kies (2014) conﬁrms this focus
+in papers published in the two journals between 2003 and 2013 while Swales and Leeder (2012) found that the top 15 most
+cited papers in ESPJ between 1990 and 1999 dealt with the discourse of written texts.
+
+These impressionistic accounts have very recently been supplemented by more quantitative studies using bibliometric
+techniques. Liu and Hu (2021), for example, used scientometrics to analyse the co-citation patterns of 1092 articles and their
+25,147 unique references of papers in ESPJ and JEAP between 1980 and 2018. They identiﬁed 11 clusters of co-cited references,
+representing the ﬁeld’s major areas of research in three phases. They label these the conceptualizing stage (1970s–1990s)
+focused on needs analysis; the maturing stage (1990s–2000s) characterized by major methodological approaches, and the
+ﬂourishing stage (2000s-), featuring the growth of diverse research interests. In a wider study, we used bibliometric methods
+to explore the main trends in EAP in 40 Web of Science indexed journals from 1980 to 2020 (Hyland & Jiang, 2021). Using a
+
+1 ESP Teaching English. British Council and BBC https://www.teachingenglish.org.uk/article/esp.
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+15
+
+different method, we identiﬁed 12,600 articles and discovered that while topics concerning teaching, learning and classroom
+practices continue to characterise the ﬁeld, those with a focus on contexts and discourses have increased since 2001, with
+growing interest in identity, interaction and genre. The most cited authors and publications also show a marked shift towards
+an interest in academic writing and social interaction.
+
+In the present study we use bibliometric techniques to analyse relevant themes, methods, authors and cited works in
+Social Science Citation Index (SSCI) journals since 1990, a year which marks the start of what Johns’ (2013) calls ESP’s ‘modern
+age’, where many of the central concepts had been established. This, then is the point at which the ﬁeld is starting to be taken
+seriously in applied linguistics and language teaching and when the Social Science Citation Index (SSCI) was introduced, thus
+providing a way for individuals, institutions, and governments to rank valued journals. We start at the point where ESP is
+taking off. We hope our ﬁndings will both contribute to a better understanding of the ﬁeld of ESP and also suggest how it has
+matured as a central area of study.
+
+2. Methodology
+
+2.1. Approach
+
+Bibliometrics is “the application of mathematics and statistical methods to the analysis of academic publications”
+(Pritchard, 1969: 348). It is used in library and information sciences to describe patterns of publication within a given ﬁeld or
+body of literature and has helped to explore research networks (González-Alcaide, Jinseo, Huamaní, Gascón & Rincón., 2012),
+authorial collaboration (Davarpanah & Aslekia, 2008), and publication gender inequalities (Sebo, Maisonneuve & Fournier,
+2020). Most famously, the fact it facilitates the quantitative evaluation of publications, journals, and authors means that it
+informs the Science Citation Index and is often used to study the research productivity of individual scholars and countries
+(Liu, Hu, Tang & Wang, 2015; Ma, Li & Chen, 2014).
+
+Studies have not, however, generally sought to identify the most popular research themes, highly cited authors, or
+publications in a ﬁeld. Liu and Hu (2021) and Hyland and Jiang (2021), are among the exceptions to this. The current paper
+differs from these, however, by a) prioritising relevant topics rather than journals and b) by scouring the entire indexed
+literature to do so.
+
+2.2. Corpus
+
+To address our research questions we ﬁrst created a corpus of ESP-relevant articles. To do this we focused on those themes
+at the heart of the ﬁeld, dealing with the teaching and research of English in specialized areas. We see theme as comprising
+topics and methods of analysis and relied here on two sources of information. First, the Statement of Aims in the journal of
+English for Speciﬁc Purposes, which lists the following areas of interest:
+
+second language acquisition in specialized contexts, needs assessment, curriculum development and evaluation,
+materials preparation, discourse analysis, descriptions of specialized varieties of English, teaching and testing, the
+effectiveness of approaches to language learning and teaching and the training of teachers of ESP.2
+
+To these items we added others regarded as key areas by the editors of the Handbook of English for Speciﬁc Purposes
+
+(Paltridge & Starﬁeld, 2013) which include:
+
+medical, academic, nursing, workplace, business, legal English, aviation, science and technology, professional, and
+occupational English.
+
+We took each of these themes and searched ALL the journal abstracts in the entire SSCI collections on the Web of Science
+
+(WoS).
+
+We chose to survey the Web of Science databases from the ‘core collections’ as these contain the prestigious SSCI listed
+journals and represent the most recognised sources of excellence in research endeavour. This approach differs from our
+earlier paper looking at EAP as there we included many papers that were not SSCI indexed. Alternative sources such as Google
+Scholar and Scopus have a wider coverage, but neither ensure the same rigorous quality control. Google Scholar is a search
+engine covering the whole internet which produces results based on machine automated matching criteria and Scopus is very
+variable in quality and includes non-peer reviewed journals. WoS includes 12,000 high impact journals made on the basis of
+impact evaluations and contains over 79 million papers. While SSCI indexed papers may not be representative of the vast
+output of ESP scholarship, they exemplify what is best recognised and valued by the community. This work, then, might be
+expected to be the most visible, most read, most cited and so most inﬂuential on research conducted in ESP (see also Lei & Liu,
+2019; Zhang, 2020).
+
+We deﬁned the search span as 1990 to 2020. This was partly because 1990 is when the SSCI begun and tracking from that
+date gives a consistent quality to the texts in the corpus. We also wanted to offer a quantitative supplement to more
+impressionistic studies in the literature and extend work after the major reviews ending in 2000 (Hewings, 2002; Swales &
+
+2 https://www.journals.elsevier.com/english-for-speciﬁc-purposes.
+
+16
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+Leeder, 2012). As we described above, this encompasses the period where ESP has emerged from its beginnings in needs
+assessment, statistical grammar counts, local newsletters and international British Council teaching projects (Johns, 2013;
+Swales, 2020). The Journal of Second Language Writing, publishing articles overlapping ESP interests started in 1991 while the
+ﬂagship journal ESP had been running for a decade. Swales seminal Genre Analysis was published that year and would
+transform how academic writing was seen and taught. For Johns (2013), 1990 marks the beginning of the ‘modern period’ of
+ESP: the point where it became of age and its key concepts gained currency.
+
+This search of the WoS yielded 3,467 SSCI articles published since 1990 containing reference to the search themes. For
+these papers we downloaded all the accompanying data, of titles, keywords, abstracts, reference lists and author names and
+afﬁliations. Figure 1 shows the distribution of these publications across the years. We can see a remarkable increase in the
+number of publications after 2005, and because of this we chose this as a cut-off, enabling us to trace the change before and
+after this shift. The ﬁrst period 1990 to 2004 contains 535 articles and the second from 2005 to 2020 has 2,932.
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+Figure 1. Changing number of ESP related articles across the 30 years.
+
+2.3. Data searches
+
+We then probed these three corpora to answer our research questions, pursuing the same areas as we addressed in our
+
+EAP paper (Hyland & Jiang, 2021):
+
+(1) The most frequently explored themes overall and in each period
+(2) The most cited authors overall and in each period
+(3) The most cited books, chapters and articles in the two periods
+(4) The most productive countries/regions over the two periods
+(5) The most active journals publishing and citing ESP papers
+
+Question 1, regarding themes, we addressed in the following way:
+
+1) Annotated all the identiﬁed abstracts with part-of-speech and lemma information3 using Schmid’s (1995) TreeTagger
+
+programme (c.f. Lei & Liu, 2019).
+
+2) Searched the tagged corpora to identify all nouns and n-grams of 2–5 words using AntConc (Anthony, 2019) to identify
+
+candidate themes.
+
+3) Filtered the n-grams using an automatic process (using stop words) to exclude function words (modals, pronouns, etc)
+
+which do not occur in research topic phrases.
+
+4) Manually checked all remaining cases to exclude phrases which did not constitute research themes.
+
+To identify potential themes we focused on nouns, which offer a more productive way of capturing themes than other
+parts of speech, and on 2–5 word n-grams, which gave us a realistic chance to identify themes such as professional
+
+3 A lemma is the dictionary or citation form of a word, e.g. run, runs, ran and running are indexed by the lemma ‘run’. This ensured that we captured all
+
+examples of a form.
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+17
+
+development (2-word gram) and Listening comprehension of academic lectures (5-word gram). In this process we rejected items
+in three categories: a) words and clusters common in general language use (seem to and in depth), b) concepts and themes not
+speciﬁc to ESP (response to, signiﬁcant difference, the ﬁndings suggest) and c) concepts and issues common in ESP but too
+general to be useful (e.g. meaning, Non-native English Speaker) (see Lei & Liu, 2019).
+
+In addition to these stipulations, we only included themes if they met a threshold frequency of at least 30 occurrences. This
+follows Lei and Liu (2019) and Hyland and Jiang (2021) who regard this frequency as high enough to ensure that the selected
+items were signiﬁcant in the texts, but not so high as to exclude important areas. We also included a range criterion to
+guarantee a topic was sufﬁciently widespread in the literature, so that only items which occurred in 10% or more of the
+publications were included. We then normalised the frequencies by representing the number of occurrences of each theme
+per 100 papers to allow comparisons between time periods. Finally, we ran a one-way chi-square test for each of the themes
+across the two periods to determine statistical differences in their frequencies.
+
+Questions 2 and 3 concern the most prominent authors and publications. Here we used frequency counts to identify the
+most-cited authors in the references of the papers in each period. To ﬁnd the titles of the most highly cited publications, we
+used a regular expression search to discover the frequencies of all the books, chapters, and articles from the reference lists of
+the articles in the corpus.
+
+Question 4 concerns the most productive countries in ESP publishing and here we extracted the afﬁliation of every author
+
+of every paper in the corpus.
+
+Question 5 addresses the journals publishing and citing ESP research. To answer this we used a Web of Science facility to
+ﬁnd all the citations the ESP papers had gained and generated a list of the journal sources contained in them. Finally, both
+authors examined the results independently to check our results and resolve a small number of problematic cases.
+
+3. Results and discussion
+
+In this section we discuss our ﬁndings taking each research question in turn.
+
+3.1. The most frequently studied themes
+
+We understand themes to include both the issues explored and the means of exploring them, thus comprising both topics
+and methods. The criteria discussed in Section 3.3 (at least 10 occurrences in at least 20 papers) produced 172 frequently
+discussed research themes over the 30 years. Each period produced a number of new topics as the ﬁeld expanded, with 134 in
+the second period. Table 1 shows the topics which statistically rose and fell overall, with raw and normed frequency for each
+period and the total number of papers the items occurred in. The themes are organised by their percentage change in normed
+frequency.
+
+Quite clearly, several of these themes have shown quite dramatic increases in popularity over the years, with professional
+development, genre, corpus, assessment, curriculum, literacy and discourse up more than 66% per 100 papers. The massive rise of
+interest in professional development since 1990 is a consequence of a growing professionalism in the ﬁeld and the desire of
+practitioners to both improve their classroom skills and their identities as academics (e.g., Ding & Bruce, 2017).
+
+We can also see in these items the impact of ESP inﬂuencers, such as the editors of ESPJ, who made serious efforts towards
+the end of the 1980s to expand the horizons of the movement and make it more relevant to the applied linguistics/TESOL
+community (Johns, 2013). We therefore see no mention of needs or register, which were ESP staples of the early days (Dudley-
+Evans & St John, 1998; Upton, 2012). The areas of science and technology, and a focus on courses, sentence level analysis and
+reading have also declined signiﬁcantly. Such changes might be expected from a new and rapidly growing area of study.
+
+Table 1
+Themes with the most dramatic changes in ESP (per 100 papers).
+
+1990–2004
+
+2005–2020
+
+% Normed change
+
+Chi-value
+
+p
+
+Raw
+
+Normed
+
+Range
+
+Raw
+
+Normed
+
+Range
+
+Signiﬁcantly up
+
+Prof development
+Genre
+Corpus
+Assessment
+Curriculum
+Literacy
+Discourse
+
+Signiﬁcantly down
+
+Sentence
+Test
+Reading
+Science & technology
+Course
+
+47
+29
+44
+58
+37
+42
+60
+
+24
+42
+74
+107
+72
+
+8.8
+5.4
+8.2
+10.8
+6.9
+7.9
+11.2
+
+4.5
+7.9
+13.8
+20.0
+13.5
+
+29
+20
+26
+32
+27
+23
+39
+
+21
+21
+27
+49
+42
+
+581
+352
+523
+634
+394
+430
+546
+
+56
+144
+255
+377
+259
+
+19.8
+12.0
+17.8
+21.6
+13.4
+14.7
+18.6
+
+1.9
+4.9
+8.7
+12.9
+8.8
+
+396
+205
+242
+281
+249
+184
+263
+
+56
+121
+212
+323
+322
+
+125.6
+121.6
+116.9
+99.4
+94.3
+86.9
+66.0
+
+(cid:1)57.4
+(cid:1)37.5
+(cid:1)37.1
+(cid:1)35.7
+(cid:1)34.4
+
+22.25
+12.97
+18.42
+18.24
+10.55
+10.26
+8.52
+
+16.96
+11.33
+19.63
+26.32
+16.45
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+
+18
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+Table 2 shows the themes which remained relatively constant overall. We can see a very small statistical fall in almost all of
+these items (normed to 100 papers), but they represent the most consistent frequencies in the corpus. We also show here the
+range or number of papers they occurred in. Here we can see a continuing interest in writing, instruction, business English,
+higher education and the role of community. These have remained mainstays of ESP over the entire period.
+
+Table 2
+Themes with constant high frequencies in ESP 1990 to 2020.
+
+1990–2004
+
+2005–2020
+
+% Normed change
+
+Chi-value
+
+p
+
+Raw
+
+Normed
+
+Range
+
+Raw
+
+Normed
+
+Range
+
+Constant
+Writing
+Community
+Instruction
+Business
+Higher education
+
+85
+92
+67
+42
+53
+
+22.1
+24.0
+17.5
+10.9
+13.8
+
+21
+27
+49
+21
+42
+
+592
+653
+477
+316
+405
+
+20.2
+22.3
+16.3
+10.8
+13.8
+
+121
+212
+323
+56
+322
+
+(cid:1)8.8
+(cid:1)7.0
+(cid:1)6.8
+(cid:1)1.5
+0.0
+
+1.20
+1.72
+1.30
+1.55
+2.27
+
+0.27
+0.19
+0.25
+0.21
+0.13
+
+Table 3 shows the themes that appear to be emerging and receding over the period. Here the ﬁgures are presented in
+comparison with the earlier period (raw numbers, per 100 papers, number of papers). Here interest in identity and lingua
+franca, the latter increasingly found in the business world and other workplaces, have increased considerably. In ESP class-
+rooms feedback has seen a strong showing in the research literature, but Interaction has been one of the most popular topics
+since 2005 and is now a mainstay of much EAP work through stance, engagement, metadiscourse, appraisal and other ap-
+proaches (e.g. Hyland & Jiang, 2019).
+
+Table 3
+Themes emerging and declining (per 100 papers).
+
+Emerging
+Identity
+Interaction
+Workplace
+Feedback
+Lingua franca
+
+Declining
+
+Classroom
+Accuracy
+Questionnaire
+Acquisition
+
+2005–2020
+
+Raw
+
+569
+403
+335
+197
+151
+1990–2004
+
+Raw
+
+70
+60
+48
+35
+
+Normed
+
+No of papers
+
+19.4
+13.7
+11.4
+6.7
+5.2
+
+182
+166
+177
+101
+102
+
+normed
+
+No of papers
+
+13.1
+11.2
+9.0
+6.5
+
+39
+36
+31
+21
+
+In terms of research methods, discourse, corpus and genre analysis are all signiﬁcant climbers in Table 1, having replaced
+questionnaire research (Table 3). So, as our understanding of needs has developed, so too has the ways to explore these needs,
+ﬁnding answers in the interactions that occur in the speciﬁc discourses and genres used by students and professional
+communities.
+
+Together, these changes in topics, methods and foci suggest a movement away from a broader view of EFL: it also an-
+
+nounces a unique research space being carved out for a new disciplinary endeavour.
+
+3.2. Most cited authors
+
+This evolution towards a distinctive disciplinary character can also be seen in the ﬁeld’s most inﬂuential authors. To
+identify these we conducted a frequency count of the reference lists in our corpus of 3,467 research articles, divided them into
+two time periods, and normalised the results to 100 papers. Table 4 lists the top 15 authors in each period, together with their
+raw and normalised citation counts.
+
+An interesting feature of the table is that half the authors span both lists, indicating a certain consistency of interests and
+consolidation of a distinctive disciplinary dramatis personae of recognisable names. Swales, Hyland, Bhatia and Flowerdew are
+among the most identiﬁable authors in ESP and their work is prominent in the two lists. Other major ﬁgures over the 30 years
+are the linguists Michael Halliday and Douglas Biber, the social theorist Pierre Bourdieu and the critical sociolinguist Alistair
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+19
+
+Table 4
+Most highly cited authors across the two periods.
+
+1990–2004
+
+Authors
+
+John Swales
+M.A.K. Halliday
+Ken Hyland
+Alastair Pennycook
+John Flowerdew
+Vijay Bhatia
+Douglas Biber
+Robert B. Kaplan
+Pierre Bourdieu
+Lev Vygotsky
+Michael Fullan
+Norman Fairclough
+Ann Johns
+Carolyn R. Miller
+Jean Lave
+
+Raw
+
+Normed
+
+95
+78
+56
+47
+42
+42
+39
+39
+36
+33
+32
+31
+29
+29
+20
+
+17.7
+14.6
+10.4
+8.9
+7.8
+7.8
+7.3
+7.3
+6.8
+6.3
+6.0
+5.7
+5.5
+5.4
+3.7
+
+2005–2020
+
+Authors
+
+Ken Hyland
+John Swales
+Douglas Biber
+M.A.K. Halliday
+Vijay Bhatia
+Suresh Canagarajah
+Jenifer Jenkins
+Pierre Bourdieu
+John Flowerdew
+Janet Holmes
+Alastair Pennycook
+Paul James Gee
+Rod Ellis
+Barbara Seidlhofer
+Jan Blommaert
+
+Raw
+
+490
+350
+305
+302
+268
+252
+238
+208
+200
+198
+182
+178
+165
+161
+161
+
+Normed
+
+16.7
+11.9
+10.4
+10.3
+9.1
+8.6
+8.1
+7.1
+6.8
+6.8
+6.2
+6.1
+5.6
+5.5
+5.5
+
+Pennycook. All eight have contributed to the understanding of specialised language use in various ways and inﬂuenced the
+development of the ﬁeld.
+
+Swales, through his work on genre and community-speciﬁc language practices, has been a seminal inﬂuence of course and
+his approach to specialised language analysis and description has been taken up in different ways by Hyland, Flowerdew and
+Bhatia. Hyland’s work on the importance of interactive features in scholarly discourse and Bhatia’s on genre in legal and
+professional practice have encouraged considerable research in these areas. Biber, with corpus informed analyses of varia-
+tions in register and mode, and Bourdieu, by introducing the inﬂuential concepts of cultural, social, and symbolic forms of
+capital as well as cultural reproduction and habitus, have both made a lasting impression on either the methods or un-
+derstandings of the ﬁeld. Halliday’s inﬂuence, of course, can be seen in the considerable work conducted using Systemic
+Functional Linguistics in ESP and its continuing interest in the role of choice and dialogue in the creation of meanings.
+
+Flowerdew, together with Pennycook, Fairclough and Canagarajah, have established the importance of asking critical
+questions in studying discourse and language education. Fairclough, the founding father of critical discourse analysis, and
+Pennycook have encouraged us to reﬂect on the wider political implications of global English while Canagarajah has been
+consistent in recognising vernacular languages in education through translingualism and the speciﬁc needs of migrants. The
+importance of discourse in ESP is also indexed in the citations given to Carolyn Miller, James Gee and Jan Blommaert. Miller for
+her ideas on genre as social action in the ﬁrst period and to Gee, whose work on studying communication in its cultural
+settings, and to Blommaert, for his contributions on discourse and the impact of language and globalisation. Together with the
+concepts of discourse and critical analysis, the notion of community as a decisive factor in language use and learning has also
+had a decisive impact on work in ESP and this accounts for the appearance of Vygotsky and Lave in the earlier list.
+
+The role of culture in language use and learning has also been a strong theme of ESP throughout the period. Robert Kaplan’s
+thought-provoking work on cultural differences in thinking and writing has continued to be debated. This can be seen in the
+second period by the citations to English as Lingua Franca scholars such as Jenkins and Seidelhofer in describing how cultural
+forms, practices, and frames of reference inﬂuence communications among individuals who do not share the same ﬁrst
+language. Janet Holmes is a more central ﬁgure in ESP as a result of her work in workplace communication.
+
+Key pedagogical inﬂuences on ESP in the earlier period were Ann Johns, and her energetic work supporting L2 un-
+dergraduates through genre and collaborations with discipline-speciﬁc faculty. Another heavily cited presence on the ﬁrst list
+is Michael Fullan, with his inﬂuential views of pedagogy and the cultivation of deep learning, especially using digital tools and
+collaboration. This pedagogical strand of research is represented by Rod Ellis in the later period through his work on tasks,
+although Swales’ contributions to teaching ESP at graduate levels has also been signiﬁcant.
+
+3.3. Most inﬂuential publications
+
+We assume here that the most inﬂuential publications in a period are those which have received the most citations.
+Citation, of course, is the standard means by which authors acknowledge the source of their methods, ideas and ﬁndings, and
+is widely used as a rough measure of a paper’s importance. In ESP, however, this is complicated by the fact that research may
+not only be measured in terms of its impact on subsequent research, but on the effects it has in language classrooms. Ideas and
+ﬁnding may be taken up in policy changes, innovations to curricula, and in teachers’ choices of materials, texts and
+instructional methods, rather than in other research. We cannot, then, say that other publications, speciﬁcally addressed to
+practitioners, have not had an equal impact on the ﬁeld.
+
+There are also other confounding factors here. Citations may be skewed by self-citation or negative citations, for example,
+although their inﬂuence seems to be negligible (e.g. Hyland, 2003). More importantly, not only are more works cited as
+
+20
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+research expands across the period, but also older publications have more time to accrue citations. As a result, bibliome-
+tricians tend to compare counts for papers of similar age rather than simply count citation frequencies when they want to
+measure a paper’s value (e.g. Cooper, 2015). We acknowledge the citation lag which means that more recent publications may
+not be recorded here, but our lists reﬂect something of how the ﬁeld has changed and which publications have been most
+inﬂuential in this change to the present. Tables 5 and 6 show the top 15 of the most cited publications taken from the
+reference lists of our 3,467 papers
+
+Table 5
+Most highly cited publications from 1990 to 2004.
+
+Publications
+
+Cites Normed
+
+Swales, J. (1990). Genre analysis: English in academic and research settings. Cambridge: Cambridge University Press.
+Fairclough, N. (1989). Language and power. London: Longman.
+Biber, D. (1988). Variation across speech and writing. Cambridge: Cambridge University Press.
+Hyland, K. (2001). Humble servants of the discipline?: Self-mention in research articles. English for Speciﬁc Purposes, 20(3), 207–226.
+Hyland, K. (2000). Disciplinary discourses: social interactions in academic writing. Harlow: Longman.
+Canagarajah, A. S. (1996). “Nondiscursive” requirements in academic publishing, material resources of periphery scholars, and the politics
+
+26
+14
+11
+10
+10
+10
+
+of knowledge production. Written Communication, 13(4), 435–472.
+
+Halliday, M. A. K. (1985). An introduction to functional grammar. London: Edward Arnold.
+Halliday, M. A. K., & Hasan, R. (1976). Cohesion in English. London: Longman.
+Hewings, M. (2002). “It is interesting to note that .”: a comparative study of anticipatory ‘it’ in student and published writing. English for
+
+10
+10
+8
+
+Speciﬁc Purposes, 21(4), 367–383.
+
+Jenkins, S., & Hinds, J. (1987). Business letter writing: English, French, and Japanese. TESOL Quarterly, 21(2), 327–349.
+Myers, G. (1989). The pragmatics of politeness in scientiﬁc articles, Applied Linguistics, 10(1), 1–35.
+Pennycook, A. (1994). The Cultural Politics of English as an International Language. London: Longman.
+Holliday, A. (1994). Appropriate methodology and social context. Cambridge: Cambridge University Press.
+Kaplan, R. B. (1966). Cultural thought patterns in inter-cultural education. Language Learning, 16(1): 1–20.
+Lave, J, & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge: Cambridge University Press.
+Nickerson, C. (1998). Corporate culture and the use of written English within British subsidiaries in the Netherlands. English for Speciﬁc
+
+8
+8
+8
+8
+8
+8
+8
+
+5.0
+2.6
+2.1
+1.8
+1.8
+1.8
+
+1.8
+1.8
+1.6
+
+1.6
+1.6
+1.6
+1.6
+1.6
+1.6
+1.6
+
+Purposes, 17(3), 281–294.
+
+Table 6
+Most highly cited publications from 2005 to 2020.
+
+Publications
+Nickerson, C. (2005). English as a lingua franca in international business contexts. English for Speciﬁc Purposes, 24(4), 367–380.
+Shulman, L. S. (1987). Knowledge and teaching: foundations of the new reform. Harvard Educational Review, 57(1), 1–22.
+Hyland, K. (2002). Speciﬁcity revisited: how far should we go now? English for Speciﬁc Purposes, 21(4), 385–395.
+Blommaert J. (2010). The sociolinguistics of globalization. Cambridge: Cambridge University Press.
+Coxhead, A. (2000). A new academic word list. TESOL Quarterly, 34(2), 213–238.
+Jenkins, J., Cogo, A., & Dewey, M. (2011). Review of developments in research into English as a lingua franca. Language Teaching, 44: 281-
+
+315.
+
+Canagarajah, S. (1999). Resisting linguistic imperialism in English teaching. Oxford: Oxford University Press.
+Hyland, K. & Tse, P. (2007). Is there an “academic vocabulary”? TESOL Quarterly, 41(2), 235–253.
+Sinclair, J. (1991). Corpus, concordance, collocation. Oxford: Oxford University Press.
+Beijaard, D., Meijer, P. & Verloop, N. (2004). Reconsidering research on teachers’ professional identity. Teaching and Teacher Education,
+
+20(2), 107–128.
+
+46
+42
+38
+36
+35
+35
+
+35
+34
+33
+31
+
+Hyland, K. (2008). As can be seen: lexical bundles and disciplinary variation. English for Speciﬁc Purposes, 27(1), 4–21.
+Bhatia, V. K. (2010). Interdiscursivity in professional communication. Discourse & Communication, 4(1), 32–50.
+Biber, D., Conrad, S., & Cortes, V. (2004). If you look at . : lexical Bundles in University Teaching and Textbooks. Applied Linguistics, 25(3),
+
+31
+31
+30
+
+371–405.
+
+1.6
+1.4
+1.3
+1.2
+1.2
+1.2
+
+1.2
+1.2
+1.1
+1.1
+
+1.1
+1.1
+1.0
+
+Cites Normed
+
+Lee, O. (2005). Science education with English language learners: synthesis and research agenda. Review of Educational Research, 75, 491–
+
+30
+
+1.0
+
+530.
+
+Hyland, K. (2000). Disciplinary discourses: social interactions in academic writing. Harlow: Longman.
+
+28
+
+1.0
+
+Almost all the authors discussed in the previous section appear somewhere on these publication lists. Some writers in
+Table 4, such as Holmes, Johns, Vygotsky and Gee, however, do not appear here as their inﬂuence was presumably dispersed
+over a greater number of publications. Nor were the high citations for some works in these tables sufﬁcient to push their
+writers onto the inﬂuential authors list. While the raw citation numbers may seem rather low, especially in Table 5, these
+ﬁgures refer only to those publications cited in SSCI listed journals on ESP relevant themes. It is likely that these same papers
+also received considerable citations in journals in other areas of applied linguistics, perhaps focusing on other topics of
+language analysis and pedagogy.
+
+The works on the lists in Tables 5 and 6 fall into ﬁve broad categories, and while some authors or texts might legitimately
+
+be assigned to two groups, the groupings nevertheless indicate the general concerns of the ﬁeld over the period:
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+21
+
+1. Textual – concerned with discourse, grammar, etc. (Biber, Hewings, Coxhead)
+2. Cultural –cultural inﬂuence and language contact (Holliday, Kaplan, Jenkins)
+3. Contextual – disciplinary and community issues (Nickerson, Lave, Myers)
+4. Pedagogical – teaching and learning matters (Beijaard et al. Shulman, Lee)
+5. Critical – Sociopolitical inﬂuences (Pennycook, Fairclough Canagarajah)
+
+Interestingly, over half the publications in the ﬁrst period comprises books (9), but there has been a substantial shift
+towards journal articles over the two periods with just 4 in the 2005–2020 list. While books have been traditionally valued in
+the social sciences and tend to be more long-lived, articles offer authors immediate visibility, and institutions have prioritised
+these in recent years for government accounting purposes.
+
+Of the 30 slots in the two tables, 17 are ﬁlled by publications whose authors appear only once, while others appear several
+times. John Swales’ Genre Analysis, published at the beginning of this survey, tops the ﬁrst list, with an enduring inﬂuence on
+the ﬁeld indicated by its nearly 19,000 citations on Google Scholar. Catherine Nickerson’s paper topping Table 6 is actually an
+introduction to a special issue on business English and reviews research investigating the role of written and spoken
+communication in English and speciﬁc business genres such as negotiations, meetings, e-mail and advertising. Ken Hyland’s
+Disciplinary Discourses is the only work appearing in both lists, which shows its considerable staying power in the ﬁeld.
+Hyland’s book helped establish an explosion of research over the next 20 years into the relationships between the cultures of
+academic communities and their discourses. His work appears a further ﬁve times in these lists, each one highlighting the
+signiﬁcance of disciplinary writing conventions or with one paper, Speciﬁcity revisited, an argument for disciplinary-speciﬁc,
+rather than general EAP.
+
+Douglas Biber also appears in two lists. Biber’s presence in two periods indicates the importance of corpus research to the
+ﬁeld. Variation across speech and writing, published in 1988, used computational techniques to identify variation of linguistic
+co-occurrence patterns in a range of spoken and written registers and genres. The work has inspired corpus studies of
+specialised texts, whether using Multi-Dimensional Analysis or not. His second paper, with Conrad and Cortes on lexical
+bundles in Table 6, provided researchers with a clear example of how to conduct comparative feature analyses across aca-
+demic genres. Michael Halliday also has two publications in the lists, both in Table 5, indicating the key importance of his
+work to ESP. Issues related to teaching and learning are also well represented, especially in Table 5 where Shulman, Hyland’s
+speciﬁcity, Beijaard et al. and Lee have inﬂuenced researchers.
+
+Interestingly there are two papers on lexical bundles in the tables and, together with those on the academic word list and
+anticipatory “it”, point to the role of corpus-driven analysis in ESP research. In contrast to a corpus-based approach, this as-
+sumes no a-priori framework of linguistic description, as suggested by Halliday’s Systemic Functional Grammar and Cohesion in
+English, for example, but discovers information about previously undescribed specialised texts. Several critical texts are highly
+cited, notable Fairclough’s Language and power and Pennycook’s book on the cultural and social consequences of English as a
+global language and the development of a critical pedagogy for TESOL. The publications by Canagarajah and Blommaert take
+up these issues in different ways and show the sense of disquiet that many practitioners within ESP continue to have about
+the global role of English in the world.
+
+3.4. Most productive countries/regions
+
+Historically, well ﬁnanced institutions in the West, and particularly the United States, have led scholarly publishing as a
+result of huge ﬁnancial investments in research infrastructure, high salaries to attract the proliﬁc authors, and environments
+
+Table 7
+Most productive countries/regions over 30 years (by author afﬁliation).
+
+1990–2004
+
+Country
+
+USA
+England
+Australia
+Canada
+HK, China
+Spain
+Taiwan
+Germany
+Finland
+Netherlands
+North Ireland
+Scotland
+New Zealand
+Mainland, China
+Japan
+
+No.
+
+118
+91
+35
+29
+24
+16
+12
+12
+12
+10
+10
+9
+9
+5
+5
+
+%
+
+30.7
+23.7
+9.1
+7.6
+6.3
+4.2
+3.1
+3.1
+3.1
+2.6
+2.6
+2.3
+2.3
+1.3
+1.3
+
+2005–2020
+
+Country
+
+USA
+England
+Australia
+Mainland, China
+Spain
+Taiwan
+Canada
+New Zealand
+HK, China
+Japan
+Turkey
+South Korea
+Germany
+Netherlands
+Finland
+
+No.
+
+754
+441
+333
+315
+201
+133
+128
+68
+67
+60
+48
+47
+44
+43
+41
+
+%
+
+25.7
+15.0
+11.4
+10.7
+6.9
+4.5
+4.4
+2.3
+2.3
+2.1
+1.6
+1.6
+1.5
+1.5
+1.4
+
+22
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+conducive to scholarly networking and publishing. Globalisation, however, has encouraged previously peripheral countries to
+raise the status of their universities and their involvement in international publishing. As the competition for international
+students and research funding increase, greater pressure is put on academics to publish in prestigious English language
+journals. The afﬁliations of authors in our data illustrate this expansion, suggesting both the spread of ESP and the emerging
+participation of Asian countries. Table 7 shows, in rank order, the 15 most productive countries and regions in research over
+the period using the afﬁliation of every author in the corpus.
+
+Despite the continuing dominance of the USA, England and Australia at the head of each list, the proportion of ESP research
+which their authors publish has, with the exception of Australia, declined over the 30 years. Canada, Hong Kong, Germany,
+Finland and the Netherlands have all fallen, both in ranking and the percentage of work they have added to the whole, while
+Scotland and Northern Ireland have dropped out of the top 15 altogether. Spain, Taiwan, New Zealand, Taiwan, Japan and,
+most spectacularly, Mainland China, all increased their positions and contributions to the ESP literature over the period. It is,
+however, the ﬂood of work from Asian countries which catches the eye.
+
+Today, South Korea, Japan, Turkey, China, Taiwan and Hong Kong all sit among the heavyweights of academic publishing.
+This reﬂects the fact that emerging economies have largely driven the 4–5% per year growth in publishing output in recent
+years (UNESCO, 2017). The leading Asian countries, for example, have accounted for 8–12% annual growth in the last few years
+compared to around 2.9% for the G8, and just 1% for the US and EU. Turkey, for instance, nearly doubled its share of world
+publications to 1.9% between 2008 and 2014 (UNESCO, 2017). Hong Kong, a Special Administrative Region of China, has been
+at the forefront of international ESP research, with ﬁve universities in the world top 100 (QS, 2020) and a clear demand for a
+workforce of English-proﬁcient professionals. Researchers in these English-medium universities have made signiﬁcant and
+consistent contributions to ESP over the 30 years and, in particular to the description and teaching of academic texts.
+
+The most striking change is the remarkable growth in China’s rise across the period. A key reason for this is the massive
+increase in support for research by the government in recent years (e.g. Zhang, Patton & Kenney, 2013). China’s research
+expenditure increased almost 33 times between 1995 and 2013 (National Bureau of Statistics of China, 2015) so that articles in
+SCI journals written by authors from Chinese institutions increased from 120,000 in 2009 to 450,000 in 2019 (Mallapaty,
+2020). Some estimates even suggest that Chinese authors, from anywhere in the world, co-authored 34.5% of all papers
+published in 2016 – a 22% increase since 2000 (Xie & Freeman, 2019). China also plans to increase the status of its research by
+pumping US$29 million into local journals (Cyranoski, 2019) and has invested heavily in its university system. While not
+among the disciplinary powerhouses, researchers engaged in ESP have also proﬁted from these incentives and are working to
+help make China’s mark in the ﬁeld.
+
+Our results, of course, are based on author afﬁliations rather than nationality and we can say little about a writer’s country
+of origin, ﬁrst language, or ethnic background. Some authors are likely to be expatriates employed in overseas institutions.
+What is clear, however, is that scholars working on what was the periphery, are now seeking to engage in this global en-
+terprise, so that the majority of authors publishing in prestigious journals are now non-native English speakers (Hyland,
+2015). Equally, of course, this expansion of author sources indexes the internationalisation of ESP as a signiﬁcant ﬁeld of
+inquiry.
+
+3.5.
+
+Journals publishing and citing papers on ESP
+
+Finally, we analysed our corpus to determine the journals which had published these 3,467 ESP articles during the two
+time-periods and then identiﬁed those that had cited them the most. We should point out that some journals may be high on
+these lists because of the volume of papers they publish, rather than the proportion of ESP papers that comprise their output.
+The Journal of Pragmatics, for example, publishes monthly while Ibérica only twice a year, and so it is likely we see more ESP
+papers, and perhaps more citations to those papers, in the former.
+
+Table 8
+Journals publishing most ESP papers (1990–2020).
+
+Journals
+English for Speciﬁc Purposes
+Ibérica
+TESOL Quarterly
+System
+Journal of English for Academic Purposes
+Journal of Pragmatics
+Language Teaching Research
+Intl Journal of Bilingual Education & Bilingualism
+Teaching and Teacher Education
+Journal of Multilingual & Multicultural Development
+World Englishes
+RELC Journal
+Asia Paciﬁc Education Researcher
+ELT Journal
+Applied Linguistics
+
+Number
+
+% of all papers
+
+179
+102
+73
+67
+63
+63
+61
+58
+57
+50
+46
+44
+43
+42
+40
+
+5.2
+2.9
+2.1
+1.9
+1.8
+1.8
+1.8
+1.7
+1.6
+1.4
+1.3
+1.3
+1.2
+1.2
+1.2
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+23
+
+Table 8 shows the most popular publishing venues for authors working in ESP, reporting the number of papers published
+by each journal and the proportion to the 3,467 articles, covering about 25% of the papers in the ﬁeld over the last 30 years.
+Unsurprisingly, ESPJ sits at the top of the list, but a broad range of journals follow it. Some, such as System and ELT Journal are
+principally practitioner journals, while others deal with a range of theoretical and empirical areas related to applied lin-
+guistics and language education. Along with established high-proﬁle journals such TESOL Quarterly, Applied Linguistics and
+Language Teaching Research, we ﬁnd more regionally-oriented journals. Ibérica and RELC Journal, for instance originally
+published research from Spain and South East Asia respectively, and The Asia Paciﬁc Education Researcher, showcasing
+innovative practice in the Paciﬁc, indicate something of the range of journals publishing ESP studies. Interestingly ESP work
+has also surfaced in periodicals less centrally concerned with teaching, such as Journal of Pragmatics, Journal of Multilingual &
+Multicultural Development and World Englishes.
+
+The signiﬁcance of ESP as an emerging discipline can also be seen in who is making use of this research, so we collected
+information on all the sources of papers citing the articles in our corpus (Table 9). Once again, there is a broad spread of
+journals in applied linguistics and ELT, but we can see that ESP research also touches those in wider ﬁelds such as nursing,
+medical and science education and psychology. Those working in policy, language planning and computer education have
+also made considerable use of the ESP work. Interestingly, the number of different journals citing ESP work may have nar-
+rowed in recent years. The ESP papers received 7,379 citations in the ﬁrst period and 22,355 in the second, with the top 15
+covering just 17.8% of all citations in 1990–2004 and 43.4% in 2005–2020. Although we cannot say for certain that ESP is now
+cited by fewer journals, it seems that the ﬁeld is becoming more focused in its citation patterns.
+
+The range of journals publishing, and citing, ESP research indexes the breadth of the ﬁeld as well as its apparent value to
+users. ESP seems to be making particular inroads into being taken seriously by medical and other professional groups as more
+non-native English learners seek to acquire to specialised language competencies of their chosen careers.
+
+Table 9
+Top 15 journals citing the ESP papers (% of all citations in each period).
+
+1990–2004
+
+Journals
+English for Speciﬁc Purposes
+Teaching and Teacher Education
+Journal of English for Academic Purposes
+TESOL Quarterly
+Journal of Pragmatics
+System
+Journal of Second Language Writing
+Medical Education
+Modern Language Journal
+International Journal of Bilingual Education and Bilingualism
+Applied Linguistics
+Computers Education
+Ibérica
+Language Policy
+Bilingualism Language and Cognition
+
+%
+
+2.5
+1.6
+1.6
+1.5
+1.5
+1.3
+1.1
+1.0
+0.9
+0.9
+0.9
+0.9
+0.8
+0.7
+0.7
+
+4. Conclusions
+
+2005–2020
+
+Journals
+
+System
+Teaching and Teacher Education
+Nurse Education Today
+English for Speciﬁc Purposes
+BMC Medical Education
+J of English for Academic Purposes
+Frontiers in Psychology
+International Journal of Bilingual Education and Bilingualism
+TESOL Quarterly
+Computer Assisted Language Learning
+Medical Education
+Journal of Pragmatics
+Computers Education
+Journal of Multilingual and Multicultural Development
+Language Teaching Research
+
+%
+
+3.2
+3.1
+3.1
+3.1
+3.0
+3.0
+3.0
+2.9
+2.8
+2.8
+2.8
+2.8
+2.7
+2.7
+2.6
+
+In this bibliometric study we have sought to track a signiﬁcantly formative period in the life of ESP. Having established
+itself as a useful, although perhaps still fringe, element of applied linguistics during its early years, the period 1990 to 2020
+saw ESP grow into a mature discipline of global importance. The last 30 years have witnessed signiﬁcant, even dramatic,
+increases in the range of its interests, the number and geographical spread of its authors, and the quantity of its books,
+journals and research papers. It has spread across the world to encourage the participation of researchers from Iran to Canada
+and maintained its pragmatic focus on the needs of classroom practice while building a solid base of research methods and
+descriptions of specialised discourses. At the same time, it has become a more reﬂective and critical ﬁeld, recognising the
+limitations of its ambitions, the challenges posed by the inequalities inherent in teaching a lingua franca, and its often
+marginal status in universities and corporate training departments.
+
+Our data indicate that researchers have shown a consistent interest in specialised texts, particularly written texts, and in
+language teaching in higher education and business. There has been a massive increase in the attention they devote to
+professional development and to academic and workplace discourses over the period, particularly using corpus and genre
+methods which focus on interaction and literacy. But while there has been a decline in issues concerned with accuracy,
+reading and sentence-level issues, classroom practices remain central to the discipline and publications discussing assess-
+ment, curricula and feedback have all increased. The global interest with these questions is shown, in particular, by the di-
+versity of geographical sources of papers and their uptake in a range of ﬁelds.
+
+24
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+These publishing and citational data paint a broad strokes picture of what is, of course, a highly nuanced and complex ﬁeld.
+Our study, for instance, privileges the top of the pile: the authors, publications and citations of papers indexed in the SSCI
+databases. These are the most accessible and celebrated works, but we have neglected the many regional, local and university
+publications as well as the teacher action research studies which are never published at all. ESP is a practitioner-oriented and
+applied discipline which means that while published studies contributes to the incremental understanding of particular
+discourses, communities and learners, it may often be used but uncited. We also have to remember that those who conduct,
+and seek to publish, research are often working on the periphery of academia. They teach in university language centres,
+further education colleges, and corporate training divisions with little incentive, resources or the support of a positive
+research culture, and this acts to constrain the advance of publishing and the future development of the ﬁeld.
+
+What this less widely disseminated research consists of, and who does it, is a potential area of future study, but it is
+probable that it reﬂects, and very likely led by, the issues in international publications. What drives ESP research, as much
+today as 30 (or 60) years ago, is a concern with specialised discourses, the contexts in which they are found, the demands
+these make on users, and the meanings they have for those working in educational and occupational workplaces as well as for
+the ﬁeld itself. ESP requires us to step into new domains of experience and explore unfamiliar communicative worlds,
+building plausible theories, detailed descriptions, relevant curricula and useful pedagogic tasks. The published literature of
+the past 30 years shows that it has consistently attempted to do this, providing grounded insights into the structures and
+meanings of texts, the connections between communities and communicative behaviours, and the pedagogic practices by
+which these behaviours can be nurtured.
+
+References
+
+Anthony, L. (2019). AntConc. Tokyo: Waseda University. Retrieved from Version 3.5.8. http://www.antlab.sci.waseda.ac.jp/.
+Belcher, D. (2009). What ESP is and can be: An introduction. In D. Belcher (Ed.), English for speciﬁc purposes in theory and practice (pp. 1-20). Ann Arbor MI:
+
+Michigan University Press.
+
+Cooper, I. D. (2015). Bibliometrics basics. Journal of the Medical Library Association, 103(4), 217-218.
+Cummins, J. (1982). Tests, achievement, and bilingual students. Rosslyn, VT: National Clearinghouse for Bilingual Education.
+Cyranoski, D. (2019). China splashes millions on hundreds of home-grown journals. Nature, 576, 346-347. https://www.nature.com/articles/d41586-019-
+
+03770-3.
+
+Davarpanah, M., & Aslekia, S. (2008). A scientometric analysis of international LIS journals: Productivity and characteristics. Scientometrics, 77(1), 21-39.
+Ding, A., & Bruce, I. (2017). The English for academic purposes practitioner: Operating on the edge of academia. Cham, Switzerland: Springer.
+Dudley-Evans, T., & St John, M. J. (1998). Developments in English for speciﬁc purposes: A multi-disciplinary approach. Cambridge: Cambridge University Press.
+Gollin-Kies, S. (2014). Methods reported in ESP research articles: A comparative survey of two leading journals. English for Speciﬁc Purposes, 36, 27-34.
+González-Alcaide, G., Jinseo, P., Huamaní, C., Gascón, J., & Rincón, J. (2012). Scientiﬁc authorships and collaboration network analysis on Chagas disease:
+
+Papers indexed in PubMed (1940-2009). Revista do Instituto de Medicina Tropical de São Paulo, 54, 219-228.
+
+Hewings, M. (2002). A history of ESP through English for speciﬁc purposes. English for Speciﬁc Purposes World, 1(3), 1-7.
+Hutchinson, T., & Waters, A. (1987). English for speciﬁc purposes: A learning-centred approach. Cambridge: Cambridge University Press.
+Hyland, K. (2003). Self-citation and self-reference: Credibility and promotion in academic publication. Journal of the American Society for Information Science
+
+and Technology, 54(3), 251-259.
+
+Hyland, K. (2006). English for academic purposes: An advanced resource book. London: Routledge.
+Hyland, K. (2015). Academic publishing: Issues and challenges in the construction of knowledge. Oxford: Oxford University Press.
+Hyland, K., & Jiang, K. (2019). Academic discourse and global publishing: Disciplinary persuasion in changing times. London: Routledge.
+Hyland, K., & Jiang, F. K. (2021). A bibliometric study of EAP research: Who is doing what, where and when? Journal of English for Academic Purposes, 49
+
+https://doi.org/10.1016/j.jeap.2020.100929.
+
+Hyland, K., & Shaw, P. (2016). The Routledge handbook of English for academic purposes. London: Routledge.
+Johns, A. M. (2013). The history of English for speciﬁc purposes research. In B. Paltridge, & S. Starﬁeld (Eds.), The handbook of English for speciﬁc purposes (pp.
+
+5-30). Chichester, UK: Wiley-Blackwell.
+
+Lei, L., & Liu, D. (2019). Research trends in applied linguistics from 2005 to 2016: A bibliometric analysis and its implications. Applied Linguistics, 40(3), 540-
+
+561.
+
+Liu, Y., & Hu, G. (2021). Mapping the ﬁeld of English for speciﬁc purposes (1980–2018): A co-citation analysis. English for Speciﬁc Purposes, 61, 97-116.
+Liu, W., Hu, G., Tang, L., & Wang, Y. (2015). China’s global growth in social science research: Uncovering evidence from bibliometric analyses of SSCI
+
+publications (1978-2013). Journal of Informetrics, 9, 555-569.
+
+Ma, F., Li, Y., & Chen, B. (2014). Study of the collaboration in the ﬁeld of the Chinese humanities and social sciences. Scientometrics, 100, 439-458.
+Mallapaty, S. (2020). China bans cash rewards for publishing papers. Nature, 579, 18. https://www.nature.com/articles/d41586-020-00574-8.
+Master, P. (2005). Research in English for speciﬁc purposes. In E. Hinkel (Ed.), Handbook of research in second language teaching and learning (pp. 99-116).
+
+Mahwah, NJ: Lawrence Erlbaum.
+
+National Bureau of Statistics of China (1996-2014). (2015). China statistical yearbook on science and technology. Beijing: China Statistics Press https://doi.org/
+
+10.1038/d41586-020-00574-8.
+
+Orr, T. (Ed.). (2002). English for speciﬁc purposes. Alexandria, VA: TESOL.
+Paltridge, B., & Starﬁeld, S. (2011). Research in English for speciﬁc purposes. In E. Hinkel (Ed.), Handbook of research in second language teaching and learning
+
+(pp. 106-121). London: Routledge.
+
+Paltridge, B., & Starﬁeld, S. (2013). The handbook of English for speciﬁc purposes. Malden, MA: John Wiley & Sons.
+Pritchard, A. (1969). Statistical bibliography or bibliometrics? Journal of Documentation, 25, 348-349.
+QS. (2020). World university rankings. https://www.topuniversities.com/university-rankings/world-university-rankings/2020.
+Ramírez, C. (2015). English for speciﬁc purposes: Brief history and deﬁnitions. Revista de Lenguas Modernas, 23, 379-386.
+Schmid, H. (1995). TreeTagger software. http://www.cis.unimuenchen.de/wschmid/tools/TreeTagger/.
+Sebo, P., Maisonneuve, H., & Fournier, J. P. (2020). Gender gap in research: A bibliometric study of published articles in primary health care and general
+
+internal medicine. Family Practice, 37(3), 325-331.
+
+Strevens, P. (1977). Special-purposed language learning: A perspective. Language Teaching, 10, 145-163.
+Swales, J. (1988). Episodes in ESP 2nd impression. New York: Prentice Hall.
+Swales, J. (2020). ESP serial publications before the ESP Journal/English for Speciﬁc Purposes: Recollections and reﬂections of an old-timer. English for Speciﬁc
+
+Purposes, 60, 4-8.
+
+Swales, J. M., & Leeder, C. (2012). A reception study of the articles published in English for Speciﬁc Purposes from 1990–1999. English for Speciﬁc Purposes, 31,
+
+137-146.
+
+K. Hyland, Feng(Kevin) Jiang / English for Speciﬁc Purposes 64 (2021) 13–25
+
+25
+
+UNESCO. (2017). Science report: Towards 2030. https://en.unesco.org/unesco_science_report/.
+Upton, T. A. (2012). LSP at 50: Looking back, looking forward. Iberica, 23, 9-28.
+Xie, Q., & Freeman, R. B. (2019). Bigger than you thought: China’s contribution to scientiﬁc publications and its impact on the global economy. China and
+
+World Economy, 27(1), 1-27.
+
+Zhang, X. (2020). A bibliometric analysis of second language acquisition between 1997 and 2018. Studies in Second Language Acquisition, 42(1), 199-222.
+Zhang, H., Patton, D., & Kenney, M. (2013). Building global-class universities: Assessing the impact of the 985 project. Research Policy, 42, 765-775.
+
+Ken Hyland is Professor of Applied Linguistics in Education at the University of East Anglia. He has published over 250 articles and 28 books on academic
+discourse with 62,000 citations on Google Scholar. A collection of his work was published as the Essential Hyland (Bloomsbury, 2018) and a book with Kevin
+Jiang on academic publishing has recently appeared with Routledge.
+
+Feng (Kevin) Jiang is Kuang Yaming Distinguished Professor in applied linguistics in the School of Foreign Language Education at Jilin University, China and
+gained his PhD under the supervision of Professor Ken Hyland at the Centre for Applied English Studies at the University of Hong Kong. His publications have
+appeared in most major applied linguistics journals.
+
